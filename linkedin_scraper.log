@@ -1,0 +1,332 @@
+2024-10-23 11:06:00,999 - __main__ - INFO - Initializing the Chrome WebDriver...
+2024-10-23 11:06:01,000 - WDM - INFO - ====== WebDriver manager ======
+2024-10-23 11:06:01,585 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 11:06:01,925 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 11:06:02,004 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 11:06:04,784 - __main__ - INFO - Attempting to log into LinkedIn...
+2024-10-23 11:06:33,121 - __main__ - INFO - Login successful!
+2024-10-23 11:06:33,125 - __main__ - INFO - Pushing 1 profile URLs to the Redis queue...
+2024-10-23 11:06:33,143 - __main__ - INFO - Profile URLs added to the queue successfully.
+2024-10-23 11:06:33,146 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/
+2024-10-23 11:06:33,146 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/
+2024-10-23 11:06:43,534 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 11:06:48,555 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 11:06:53,570 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 11:06:58,594 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 11:07:03,675 - __main__ - INFO - Found 5 posts on profile: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/
+2024-10-23 11:07:04,028 - __main__ - ERROR - Error extracting date from post: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.feed-shared-actor__sub-description span.visually-hidden"}
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x565e4a59db9a <unknown>
+#1 0x565e4a283670 <unknown>
+#2 0x565e4a2d2c48 <unknown>
+#3 0x565e4a2d2ee1 <unknown>
+#4 0x565e4a2c75d6 <unknown>
+#5 0x565e4a2f7bad <unknown>
+#6 0x565e4a2c74c8 <unknown>
+#7 0x565e4a2f7d4e <unknown>
+#8 0x565e4a316dd6 <unknown>
+#9 0x565e4a2f7923 <unknown>
+#10 0x565e4a2c56e7 <unknown>
+#11 0x565e4a2c66de <unknown>
+#12 0x565e4a56766b <unknown>
+#13 0x565e4a56b611 <unknown>
+#14 0x565e4a5534e5 <unknown>
+#15 0x565e4a56c192 <unknown>
+#16 0x565e4a5386ef <unknown>
+#17 0x565e4a58c9d8 <unknown>
+#18 0x565e4a58cba7 <unknown>
+#19 0x565e4a59c9ec <unknown>
+#20 0x7c0307a0ea94 <unknown>
+#21 0x7c0307a9bc3c <unknown>
+
+2024-10-23 11:07:04,315 - __main__ - ERROR - Error extracting date from post: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.feed-shared-actor__sub-description span.visually-hidden"}
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x565e4a59db9a <unknown>
+#1 0x565e4a283670 <unknown>
+#2 0x565e4a2d2c48 <unknown>
+#3 0x565e4a2d2ee1 <unknown>
+#4 0x565e4a2c75d6 <unknown>
+#5 0x565e4a2f7bad <unknown>
+#6 0x565e4a2c74c8 <unknown>
+#7 0x565e4a2f7d4e <unknown>
+#8 0x565e4a316dd6 <unknown>
+#9 0x565e4a2f7923 <unknown>
+#10 0x565e4a2c56e7 <unknown>
+#11 0x565e4a2c66de <unknown>
+#12 0x565e4a56766b <unknown>
+#13 0x565e4a56b611 <unknown>
+#14 0x565e4a5534e5 <unknown>
+#15 0x565e4a56c192 <unknown>
+#16 0x565e4a5386ef <unknown>
+#17 0x565e4a58c9d8 <unknown>
+#18 0x565e4a58cba7 <unknown>
+#19 0x565e4a59c9ec <unknown>
+#20 0x7c0307a0ea94 <unknown>
+#21 0x7c0307a9bc3c <unknown>
+
+2024-10-23 11:07:04,567 - __main__ - ERROR - Error extracting date from post: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.feed-shared-actor__sub-description span.visually-hidden"}
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x565e4a59db9a <unknown>
+#1 0x565e4a283670 <unknown>
+#2 0x565e4a2d2c48 <unknown>
+#3 0x565e4a2d2ee1 <unknown>
+#4 0x565e4a2c75d6 <unknown>
+#5 0x565e4a2f7bad <unknown>
+#6 0x565e4a2c74c8 <unknown>
+#7 0x565e4a2f7d4e <unknown>
+#8 0x565e4a316dd6 <unknown>
+#9 0x565e4a2f7923 <unknown>
+#10 0x565e4a2c56e7 <unknown>
+#11 0x565e4a2c66de <unknown>
+#12 0x565e4a56766b <unknown>
+#13 0x565e4a56b611 <unknown>
+#14 0x565e4a5534e5 <unknown>
+#15 0x565e4a56c192 <unknown>
+#16 0x565e4a5386ef <unknown>
+#17 0x565e4a58c9d8 <unknown>
+#18 0x565e4a58cba7 <unknown>
+#19 0x565e4a59c9ec <unknown>
+#20 0x7c0307a0ea94 <unknown>
+#21 0x7c0307a9bc3c <unknown>
+
+2024-10-23 11:07:04,842 - __main__ - ERROR - Error extracting date from post: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.feed-shared-actor__sub-description span.visually-hidden"}
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x565e4a59db9a <unknown>
+#1 0x565e4a283670 <unknown>
+#2 0x565e4a2d2c48 <unknown>
+#3 0x565e4a2d2ee1 <unknown>
+#4 0x565e4a2c75d6 <unknown>
+#5 0x565e4a2f7bad <unknown>
+#6 0x565e4a2c74c8 <unknown>
+#7 0x565e4a2f7d4e <unknown>
+#8 0x565e4a316dd6 <unknown>
+#9 0x565e4a2f7923 <unknown>
+#10 0x565e4a2c56e7 <unknown>
+#11 0x565e4a2c66de <unknown>
+#12 0x565e4a56766b <unknown>
+#13 0x565e4a56b611 <unknown>
+#14 0x565e4a5534e5 <unknown>
+#15 0x565e4a56c192 <unknown>
+#16 0x565e4a5386ef <unknown>
+#17 0x565e4a58c9d8 <unknown>
+#18 0x565e4a58cba7 <unknown>
+#19 0x565e4a59c9ec <unknown>
+#20 0x7c0307a0ea94 <unknown>
+#21 0x7c0307a9bc3c <unknown>
+
+2024-10-23 11:07:05,123 - __main__ - ERROR - Error extracting date from post: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.feed-shared-actor__sub-description span.visually-hidden"}
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x565e4a59db9a <unknown>
+#1 0x565e4a283670 <unknown>
+#2 0x565e4a2d2c48 <unknown>
+#3 0x565e4a2d2ee1 <unknown>
+#4 0x565e4a2c75d6 <unknown>
+#5 0x565e4a2f7bad <unknown>
+#6 0x565e4a2c74c8 <unknown>
+#7 0x565e4a2f7d4e <unknown>
+#8 0x565e4a316dd6 <unknown>
+#9 0x565e4a2f7923 <unknown>
+#10 0x565e4a2c56e7 <unknown>
+#11 0x565e4a2c66de <unknown>
+#12 0x565e4a56766b <unknown>
+#13 0x565e4a56b611 <unknown>
+#14 0x565e4a5534e5 <unknown>
+#15 0x565e4a56c192 <unknown>
+#16 0x565e4a5386ef <unknown>
+#17 0x565e4a58c9d8 <unknown>
+#18 0x565e4a58cba7 <unknown>
+#19 0x565e4a59c9ec <unknown>
+#20 0x7c0307a0ea94 <unknown>
+#21 0x7c0307a9bc3c <unknown>
+
+2024-10-23 11:07:05,182 - __main__ - INFO -  file name is ansuman-simanta-sekhar-bhujabala.json
+2024-10-23 11:07:05,191 - __main__ - INFO - Data for https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/ saved to ansuman-simanta-sekhar-bhujabala.json
+2024-10-23 11:07:05,191 - __main__ - INFO - Closing the Chrome WebDriver...
+2024-10-23 11:07:05,512 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/
+2024-10-23 11:07:05,512 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/
+2024-10-23 11:07:05,516 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173dc70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ecf4842b7883d80f22ad2c245a39f46f/url
+2024-10-23 11:07:05,519 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173e090>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ecf4842b7883d80f22ad2c245a39f46f/url
+2024-10-23 11:07:05,520 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173e270>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ecf4842b7883d80f22ad2c245a39f46f/url
+2024-10-23 11:07:05,521 - __main__ - ERROR - Error while processing profile: HTTPConnectionPool(host='localhost', port=43049): Max retries exceeded with url: /session/ecf4842b7883d80f22ad2c245a39f46f/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173e450>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-10-23 11:07:05,522 - __main__ - INFO - Closing the Chrome WebDriver...
+2024-10-23 11:07:05,523 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173e690>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ecf4842b7883d80f22ad2c245a39f46f
+2024-10-23 11:07:05,524 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173e870>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ecf4842b7883d80f22ad2c245a39f46f
+2024-10-23 11:07:05,525 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x736eb173ea20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ecf4842b7883d80f22ad2c245a39f46f
+2024-10-23 16:28:42,865 - __main__ - INFO - Initializing the Chrome WebDriver...
+2024-10-23 16:28:42,866 - WDM - INFO - ====== WebDriver manager ======
+2024-10-23 16:28:43,195 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 16:28:43,250 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 16:28:43,292 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 16:28:45,196 - __main__ - INFO - Attempting to log into LinkedIn...
+2024-10-23 16:29:04,674 - __main__ - INFO - Login successful!
+2024-10-23 16:29:04,679 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/parthmahajan08?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADgXi6ABhdLb2hPI0JbjcHOXYarasOo3U8Y
+2024-10-23 16:29:04,679 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/parthmahajan08?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADgXi6ABhdLb2hPI0JbjcHOXYarasOo3U8Y
+2024-10-23 16:29:14,826 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:19,866 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:24,902 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:29,916 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:34,963 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/parthmahajan08?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADgXi6ABhdLb2hPI0JbjcHOXYarasOo3U8Y
+2024-10-23 16:29:34,963 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:29:34,968 - __main__ - INFO - Data for https://www.linkedin.com/in/parthmahajan08?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADgXi6ABhdLb2hPI0JbjcHOXYarasOo3U8Y saved to _posts.json
+2024-10-23 16:29:34,968 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:29:34,968 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAACgiOSkB7XQuRGk-jOGKW_LV_XH6J7vfO20
+2024-10-23 16:29:34,968 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAACgiOSkB7XQuRGk-jOGKW_LV_XH6J7vfO20
+2024-10-23 16:29:42,218 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:47,250 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:52,276 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:29:57,291 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:02,333 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAACgiOSkB7XQuRGk-jOGKW_LV_XH6J7vfO20
+2024-10-23 16:30:02,333 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:30:02,337 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAACgiOSkB7XQuRGk-jOGKW_LV_XH6J7vfO20 saved to _posts.json
+2024-10-23 16:30:02,337 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:30:02,338 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAEUPy9UB0jx9o8GCPcp86GoRIYIVon4K6iw
+2024-10-23 16:30:02,338 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAEUPy9UB0jx9o8GCPcp86GoRIYIVon4K6iw
+2024-10-23 16:30:10,325 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:15,341 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:20,356 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:25,390 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAEUPy9UB0jx9o8GCPcp86GoRIYIVon4K6iw
+2024-10-23 16:30:25,390 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:30:25,391 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAEUPy9UB0jx9o8GCPcp86GoRIYIVon4K6iw saved to _posts.json
+2024-10-23 16:30:25,391 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:30:25,391 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAADDZ4GQB49N8E4CS0mOqdmxnl2Ye5EOUPs4
+2024-10-23 16:30:25,391 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAADDZ4GQB49N8E4CS0mOqdmxnl2Ye5EOUPs4
+2024-10-23 16:30:33,675 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:38,804 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:43,877 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:30:48,921 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAADDZ4GQB49N8E4CS0mOqdmxnl2Ye5EOUPs4
+2024-10-23 16:30:48,921 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:30:48,927 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAADDZ4GQB49N8E4CS0mOqdmxnl2Ye5EOUPs4 saved to _posts.json
+2024-10-23 16:30:48,928 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:30:48,928 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAAsSRkkBy5fqXrkn_7e8wtRQULhMx5ExXuY
+2024-10-23 16:30:48,928 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAAsSRkkBy5fqXrkn_7e8wtRQULhMx5ExXuY
+2024-10-23 16:30:56,941 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:02,072 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:07,089 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:12,123 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAAsSRkkBy5fqXrkn_7e8wtRQULhMx5ExXuY
+2024-10-23 16:31:12,123 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:31:12,124 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAAsSRkkBy5fqXrkn_7e8wtRQULhMx5ExXuY saved to _posts.json
+2024-10-23 16:31:12,124 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:31:12,124 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAABjhwJEBzCY2oggUMqg172ZtV_lGPWiaeV4
+2024-10-23 16:31:12,124 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAABjhwJEBzCY2oggUMqg172ZtV_lGPWiaeV4
+2024-10-23 16:31:19,719 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:24,940 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:29,956 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:34,988 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAABjhwJEBzCY2oggUMqg172ZtV_lGPWiaeV4
+2024-10-23 16:31:34,989 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:31:34,989 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAABjhwJEBzCY2oggUMqg172ZtV_lGPWiaeV4 saved to _posts.json
+2024-10-23 16:31:34,990 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:31:34,990 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAAWubrEBQ21lIZCVUFKoNY8KoY-Hy_mQVGM
+2024-10-23 16:31:34,990 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAAWubrEBQ21lIZCVUFKoNY8KoY-Hy_mQVGM
+2024-10-23 16:31:42,228 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:47,349 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:52,365 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:31:57,401 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAAWubrEBQ21lIZCVUFKoNY8KoY-Hy_mQVGM
+2024-10-23 16:31:57,401 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:31:57,402 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAAWubrEBQ21lIZCVUFKoNY8KoY-Hy_mQVGM saved to _posts.json
+2024-10-23 16:31:57,402 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:31:57,402 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAADuxd4BVJOy1cK2IsF_TdBU15jGWpdx400
+2024-10-23 16:31:57,402 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAADuxd4BVJOy1cK2IsF_TdBU15jGWpdx400
+2024-10-23 16:32:06,229 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:32:11,391 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:32:16,406 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:32:21,457 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAADuxd4BVJOy1cK2IsF_TdBU15jGWpdx400
+2024-10-23 16:32:21,458 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:32:21,467 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAADuxd4BVJOy1cK2IsF_TdBU15jGWpdx400 saved to _posts.json
+2024-10-23 16:32:21,468 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:32:21,468 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAAAyHvUBgMhvd1aMa-Iq92jmCDJjjD3pgqg
+2024-10-23 16:32:21,468 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAAAyHvUBgMhvd1aMa-Iq92jmCDJjjD3pgqg
+2024-10-23 16:32:31,413 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:32:36,574 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:32:41,609 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:32:46,654 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAAAyHvUBgMhvd1aMa-Iq92jmCDJjjD3pgqg
+2024-10-23 16:32:46,654 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:32:46,663 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAAAyHvUBgMhvd1aMa-Iq92jmCDJjjD3pgqg saved to _posts.json
+2024-10-23 16:32:46,663 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:32:46,663 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAAE6Q3YBi85kln8YmA_RppU_FrhIzPl5M3A
+2024-10-23 16:32:46,663 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAAE6Q3YBi85kln8YmA_RppU_FrhIzPl5M3A
+2024-10-23 16:32:54,872 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:00,028 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:05,042 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:10,074 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAAE6Q3YBi85kln8YmA_RppU_FrhIzPl5M3A
+2024-10-23 16:33:10,075 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:33:10,078 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAAE6Q3YBi85kln8YmA_RppU_FrhIzPl5M3A saved to _posts.json
+2024-10-23 16:33:10,078 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:33:10,078 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAAA0cZ88BgfrbKMN9myeJZK9yyNcdvQRtdmE
+2024-10-23 16:33:10,078 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAAA0cZ88BgfrbKMN9myeJZK9yyNcdvQRtdmE
+2024-10-23 16:33:18,438 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:23,764 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:28,800 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:33,837 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAAA0cZ88BgfrbKMN9myeJZK9yyNcdvQRtdmE
+2024-10-23 16:33:33,837 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:33:33,838 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAAA0cZ88BgfrbKMN9myeJZK9yyNcdvQRtdmE saved to _posts.json
+2024-10-23 16:33:33,839 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:33:33,839 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/akshatshrivastavainsead?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOluNsBmqekBgjJh6Oo0de70G0Zq7-_1Ok
+2024-10-23 16:33:33,839 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/akshatshrivastavainsead?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOluNsBmqekBgjJh6Oo0de70G0Zq7-_1Ok
+2024-10-23 16:33:43,506 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:48,523 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:53,538 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:33:58,571 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/akshatshrivastavainsead?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOluNsBmqekBgjJh6Oo0de70G0Zq7-_1Ok
+2024-10-23 16:33:58,572 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:33:58,572 - __main__ - INFO - Data for https://www.linkedin.com/in/akshatshrivastavainsead?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOluNsBmqekBgjJh6Oo0de70G0Zq7-_1Ok saved to _posts.json
+2024-10-23 16:33:58,572 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:33:58,572 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ankit-malhotra-growth?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAe015EBdgiTZgToCSGRO-l_CS_asLRaqY4
+2024-10-23 16:33:58,573 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ankit-malhotra-growth?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAe015EBdgiTZgToCSGRO-l_CS_asLRaqY4
+2024-10-23 16:34:08,664 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:34:13,683 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:34:18,699 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:34:23,731 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ankit-malhotra-growth?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAe015EBdgiTZgToCSGRO-l_CS_asLRaqY4
+2024-10-23 16:34:23,732 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:34:23,734 - __main__ - INFO - Data for https://www.linkedin.com/in/ankit-malhotra-growth?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAe015EBdgiTZgToCSGRO-l_CS_asLRaqY4 saved to _posts.json
+2024-10-23 16:34:23,735 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:34:23,735 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/kartiksubodh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACaGEw8BwXWV0JEN-bqj9Vk_IVBEuWjF0hs
+2024-10-23 16:34:23,735 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/kartiksubodh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACaGEw8BwXWV0JEN-bqj9Vk_IVBEuWjF0hs
+2024-10-23 16:34:33,240 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:34:38,255 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:34:43,271 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:34:48,305 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/kartiksubodh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACaGEw8BwXWV0JEN-bqj9Vk_IVBEuWjF0hs
+2024-10-23 16:34:48,305 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:34:48,305 - __main__ - INFO - Data for https://www.linkedin.com/in/kartiksubodh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACaGEw8BwXWV0JEN-bqj9Vk_IVBEuWjF0hs saved to _posts.json
+2024-10-23 16:34:48,306 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:34:48,306 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/chaitanya-giri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc
+2024-10-23 16:34:48,306 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/chaitanya-giri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc
+2024-10-23 16:34:58,108 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:03,177 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:08,193 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:13,227 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/chaitanya-giri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc
+2024-10-23 16:35:13,227 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:35:13,228 - __main__ - INFO - Data for https://www.linkedin.com/in/chaitanya-giri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc saved to _posts.json
+2024-10-23 16:35:13,228 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:35:13,228 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAADl9v8ABOjStNFE7FPD6SilwAea_DA9FowM
+2024-10-23 16:35:13,228 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAADl9v8ABOjStNFE7FPD6SilwAea_DA9FowM
+2024-10-23 16:35:21,181 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:26,287 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:31,302 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:36,336 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAADl9v8ABOjStNFE7FPD6SilwAea_DA9FowM
+2024-10-23 16:35:36,336 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:35:36,339 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAADl9v8ABOjStNFE7FPD6SilwAea_DA9FowM saved to _posts.json
+2024-10-23 16:35:36,339 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:35:36,339 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAADlYcAsBPlT1HEatLMHPj3JepVqAnCGBDwE
+2024-10-23 16:35:36,339 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAADlYcAsBPlT1HEatLMHPj3JepVqAnCGBDwE
+2024-10-23 16:35:44,466 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:49,611 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:54,631 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:35:59,665 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAADlYcAsBPlT1HEatLMHPj3JepVqAnCGBDwE
+2024-10-23 16:35:59,665 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:35:59,666 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAADlYcAsBPlT1HEatLMHPj3JepVqAnCGBDwE saved to _posts.json
+2024-10-23 16:35:59,666 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:35:59,666 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic
+2024-10-23 16:35:59,666 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic
+2024-10-23 16:36:07,944 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:36:12,964 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:36:18,016 - __main__ - INFO - Scrolling to load more posts...
+2024-10-23 16:36:23,071 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/ACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic
+2024-10-23 16:36:23,071 - __main__ - INFO - File name is _posts.json
+2024-10-23 16:36:23,076 - __main__ - INFO - Data for https://www.linkedin.com/in/ACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic saved to _posts.json
+2024-10-23 16:36:23,076 - __main__ - INFO - No new profile URLs extracted.
+2024-10-23 16:36:23,077 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/ACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc
+2024-10-23 16:36:23,077 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/ACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc

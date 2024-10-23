@@ -1,0 +1,565 @@
+2024-10-23 15:21:07,566 - __main__ - INFO - Initializing the Chrome WebDriver...
+2024-10-23 15:21:07,567 - WDM - INFO - ====== WebDriver manager ======
+2024-10-23 15:21:07,714 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 15:21:07,848 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 15:21:07,892 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 15:21:10,559 - __main__ - INFO - Attempting to log into LinkedIn...
+2024-10-23 15:21:29,681 - __main__ - INFO - Login successful!
+2024-10-23 15:21:29,684 - __main__ - INFO - Navigating to URL: https://www.linkedin.com/in/parthmahajan08/recent-activity/all/
+2024-10-23 15:21:37,573 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:21:42,638 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/parthmahajan08?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADgXi6ABhdLb2hPI0JbjcHOXYarasOo3U8Y/recent-activity/all/
+2024-10-23 15:21:42,737 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAACgiOSkB7XQuRGk-jOGKW_LV_XH6J7vfO20/recent-activity/all/
+2024-10-23 15:21:42,740 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAEUPy9UB0jx9o8GCPcp86GoRIYIVon4K6iw/recent-activity/all/
+2024-10-23 15:21:42,742 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADDZ4GQB49N8E4CS0mOqdmxnl2Ye5EOUPs4/recent-activity/all/
+2024-10-23 15:21:42,759 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAsSRkkBy5fqXrkn_7e8wtRQULhMx5ExXuY/recent-activity/all/
+2024-10-23 15:21:42,761 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAABjhwJEBzCY2oggUMqg172ZtV_lGPWiaeV4/recent-activity/all/
+2024-10-23 15:21:42,765 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAWubrEBQ21lIZCVUFKoNY8KoY-Hy_mQVGM/recent-activity/all/
+2024-10-23 15:21:42,769 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAADuxd4BVJOy1cK2IsF_TdBU15jGWpdx400/recent-activity/all/
+2024-10-23 15:21:42,774 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAAyHvUBgMhvd1aMa-Iq92jmCDJjjD3pgqg/recent-activity/all/
+2024-10-23 15:21:42,777 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAE6Q3YBi85kln8YmA_RppU_FrhIzPl5M3A/recent-activity/all/
+2024-10-23 15:21:42,782 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAA0cZ88BgfrbKMN9myeJZK9yyNcdvQRtdmE/recent-activity/all/
+2024-10-23 15:21:42,804 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/akshatshrivastavainsead?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOluNsBmqekBgjJh6Oo0de70G0Zq7-_1Ok/recent-activity/all/
+2024-10-23 15:21:42,816 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankit-malhotra-growth?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAe015EBdgiTZgToCSGRO-l_CS_asLRaqY4/recent-activity/all/
+2024-10-23 15:21:42,845 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kartiksubodh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACaGEw8BwXWV0JEN-bqj9Vk_IVBEuWjF0hs/recent-activity/all/
+2024-10-23 15:21:42,870 - __main__ - INFO - Current number of unique profiles collected: 14
+2024-10-23 15:21:42,870 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:21:48,103 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/chaitanya-giri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc/recent-activity/all/
+2024-10-23 15:21:48,113 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADl9v8ABOjStNFE7FPD6SilwAea_DA9FowM/recent-activity/all/
+2024-10-23 15:21:48,116 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADlYcAsBPlT1HEatLMHPj3JepVqAnCGBDwE/recent-activity/all/
+2024-10-23 15:21:48,119 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic/recent-activity/all/
+2024-10-23 15:21:48,171 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc/recent-activity/all/
+2024-10-23 15:21:48,174 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/thesayansapui?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABLvt5EBM4ipDqL9lnMdKfGzrNuleJyDX2c/recent-activity/all/
+2024-10-23 15:21:48,217 - __main__ - INFO - Current number of unique profiles collected: 20
+2024-10-23 15:21:48,218 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:21:53,551 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/antrixshgupta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACS2JSYBd4pvOYaBkYgGJq5d1VDH5F53OjA/recent-activity/all/
+2024-10-23 15:21:53,602 - __main__ - INFO - Current number of unique profiles collected: 21
+2024-10-23 15:21:53,602 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:21:58,983 - __main__ - INFO - Current number of unique profiles collected: 21
+2024-10-23 15:21:58,983 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:22:04,333 - __main__ - INFO - Current number of unique profiles collected: 21
+2024-10-23 15:22:04,334 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:22:09,341 - __main__ - INFO - No more content to scroll through.
+2024-10-23 15:22:09,341 - __main__ - INFO - Finished scraping. Total profiles collected: 21
+2024-10-23 15:22:09,348 - __main__ - INFO - Profile URLs saved to scraped_profile_urls.json
+2024-10-23 15:22:09,348 - __main__ - INFO - Closing the Chrome WebDriver...
+2024-10-23 15:31:38,100 - __main__ - INFO - Initializing the Chrome WebDriver...
+2024-10-23 15:31:38,100 - WDM - INFO - ====== WebDriver manager ======
+2024-10-23 15:31:38,172 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 15:31:38,621 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 15:31:38,659 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 15:31:40,219 - __main__ - INFO - Attempting to log into LinkedIn...
+2024-10-23 15:31:57,958 - __main__ - INFO - Login successful!
+2024-10-23 15:31:57,962 - __main__ - INFO - URL: https://www.linkedin.com/in/parthmahajan08/recent-activity/all/
+2024-10-23 15:32:05,622 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:32:10,707 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/parthmahajan08?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADgXi6ABhdLb2hPI0JbjcHOXYarasOo3U8Y/recent-activity/all/
+2024-10-23 15:32:10,817 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAACgiOSkB7XQuRGk-jOGKW_LV_XH6J7vfO20/recent-activity/all/
+2024-10-23 15:32:10,819 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAEUPy9UB0jx9o8GCPcp86GoRIYIVon4K6iw/recent-activity/all/
+2024-10-23 15:32:10,822 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADDZ4GQB49N8E4CS0mOqdmxnl2Ye5EOUPs4/recent-activity/all/
+2024-10-23 15:32:10,843 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAsSRkkBy5fqXrkn_7e8wtRQULhMx5ExXuY/recent-activity/all/
+2024-10-23 15:32:10,846 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAABjhwJEBzCY2oggUMqg172ZtV_lGPWiaeV4/recent-activity/all/
+2024-10-23 15:32:10,849 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAWubrEBQ21lIZCVUFKoNY8KoY-Hy_mQVGM/recent-activity/all/
+2024-10-23 15:32:10,852 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAADuxd4BVJOy1cK2IsF_TdBU15jGWpdx400/recent-activity/all/
+2024-10-23 15:32:10,854 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAAyHvUBgMhvd1aMa-Iq92jmCDJjjD3pgqg/recent-activity/all/
+2024-10-23 15:32:10,858 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAAE6Q3YBi85kln8YmA_RppU_FrhIzPl5M3A/recent-activity/all/
+2024-10-23 15:32:10,862 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAA0cZ88BgfrbKMN9myeJZK9yyNcdvQRtdmE/recent-activity/all/
+2024-10-23 15:32:10,887 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/akshatshrivastavainsead?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAOluNsBmqekBgjJh6Oo0de70G0Zq7-_1Ok/recent-activity/all/
+2024-10-23 15:32:10,898 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankit-malhotra-growth?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAe015EBdgiTZgToCSGRO-l_CS_asLRaqY4/recent-activity/all/
+2024-10-23 15:32:10,939 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kartiksubodh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACaGEw8BwXWV0JEN-bqj9Vk_IVBEuWjF0hs/recent-activity/all/
+2024-10-23 15:32:10,960 - __main__ - INFO - Current number of unique profiles collected: 14
+2024-10-23 15:32:10,961 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:32:16,211 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/chaitanya-giri?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc/recent-activity/all/
+2024-10-23 15:32:16,220 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADl9v8ABOjStNFE7FPD6SilwAea_DA9FowM/recent-activity/all/
+2024-10-23 15:32:16,222 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADlYcAsBPlT1HEatLMHPj3JepVqAnCGBDwE/recent-activity/all/
+2024-10-23 15:32:16,225 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic/recent-activity/all/
+2024-10-23 15:32:16,324 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADMJNHYBaPKMcXOt8Z_WzoqdIKDUiVlOflc/recent-activity/all/
+2024-10-23 15:32:16,378 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/thesayansapui?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABLvt5EBM4ipDqL9lnMdKfGzrNuleJyDX2c/recent-activity/all/
+2024-10-23 15:32:16,478 - __main__ - INFO - Current number of unique profiles collected: 20
+2024-10-23 15:32:16,478 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:32:21,806 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/antrixshgupta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACS2JSYBd4pvOYaBkYgGJq5d1VDH5F53OjA/recent-activity/all/
+2024-10-23 15:32:21,858 - __main__ - INFO - Current number of unique profiles collected: 21
+2024-10-23 15:32:21,858 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:32:27,293 - __main__ - INFO - Current number of unique profiles collected: 21
+2024-10-23 15:32:27,294 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:32:32,701 - __main__ - INFO - Current number of unique profiles collected: 21
+2024-10-23 15:32:32,701 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:32:37,709 - __main__ - INFO - No more content to scroll through.
+2024-10-23 15:32:37,709 - __main__ - INFO - Finished scraping. Total profiles collected: 21
+2024-10-23 15:32:37,720 - __main__ - INFO - Profile URLs saved to scraped_profile_urls.json
+2024-10-23 15:32:37,721 - __main__ - INFO - Closing the Chrome WebDriver...
+2024-10-23 15:33:39,460 - __main__ - INFO - Initializing the Chrome WebDriver...
+2024-10-23 15:33:39,460 - WDM - INFO - ====== WebDriver manager ======
+2024-10-23 15:33:39,743 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 15:33:40,036 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-10-23 15:33:40,078 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-10-23 15:33:41,783 - __main__ - INFO - Attempting to log into LinkedIn...
+2024-10-23 15:33:57,843 - __main__ - INFO - Login successful!
+2024-10-23 15:33:57,849 - __main__ - INFO - URL: https://www.linkedin.com/school/netaji-subhas-university-of-technology-nsut/people/
+2024-10-23 15:34:06,820 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:11,967 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sandarbh-y-5b0385142?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACKVMRQBVnG6eywKEOjx0zo0ECaA5J41M8g/recent-activity/all/
+2024-10-23 15:34:11,973 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/jayant-chauhan-991499260?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEAkyz0BdCJjgVDgdMnW30qwEeNVaRdoj-E/recent-activity/all/
+2024-10-23 15:34:11,978 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAEAkyz0BdCJjgVDgdMnW30qwEeNVaRdoj-E?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEAkyz0BdCJjgVDgdMnW30qwEeNVaRdoj-E/recent-activity/all/
+2024-10-23 15:34:11,981 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/himanshu-gupta-111488175?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACmJ_p0BhiUHmUwN1dfMg8Vau1zRiCI93ds/recent-activity/all/
+2024-10-23 15:34:11,985 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/siddharth-kumar-b67238290?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEaDh38Bfj2R_ybL_nDbnyDuw9x18jT_RN4/recent-activity/all/
+2024-10-23 15:34:11,990 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/anuj-gola-28820b178?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACoIo8gBbbt-YIOhI8Mwy8S0SY0ANsqZK-U/recent-activity/all/
+2024-10-23 15:34:12,020 - __main__ - INFO - Current number of unique profiles collected: 6
+2024-10-23 15:34:12,021 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:17,109 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/likhit101?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACxdNaMBc9O8arKBsKz6BoO4fBxzKiXQlNQ/recent-activity/all/
+2024-10-23 15:34:17,115 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhinav-raj-70716024a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2aVfcB_doQMWHihOAlCPeZr9Oo5wvmlBY/recent-activity/all/
+2024-10-23 15:34:17,151 - __main__ - INFO - Current number of unique profiles collected: 8
+2024-10-23 15:34:17,151 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:22,230 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/amrita-cholia-99b854177?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACnzRYcBQcS0O-_B1X_5s2Em9RcoPtj4v64/recent-activity/all/
+2024-10-23 15:34:22,234 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/astu0311?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACiv1oUBMjKmYzJYSo5VS-kCNuVziW5aRNI/recent-activity/all/
+2024-10-23 15:34:22,239 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/siddharth-dhingra?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEChXOkBU1YqwTQ2Id0R_t6gEyTMm7TudUg/recent-activity/all/
+2024-10-23 15:34:22,277 - __main__ - INFO - Current number of unique profiles collected: 11
+2024-10-23 15:34:22,278 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:27,372 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ishu-jain98?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC8pS_8BuUmXwEAcRencHZYZj4-kFTL0imU/recent-activity/all/
+2024-10-23 15:34:27,408 - __main__ - INFO - Current number of unique profiles collected: 12
+2024-10-23 15:34:27,408 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:32,518 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aman-tyagi-23156222b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmRoMUByzi4bOBh-RUTSzqXxONo5PIhl68/recent-activity/all/
+2024-10-23 15:34:32,522 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/gurjeet-singh-263025260?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEATRSsBc_x7ryZ0iA_9hs100KnkVoq6xcY/recent-activity/all/
+2024-10-23 15:34:32,562 - __main__ - INFO - Current number of unique profiles collected: 14
+2024-10-23 15:34:32,562 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:37,664 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ansh-tanwar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACNOKIUBk5ENYnaWgQjPi9tDT51Y6dVS3ic/recent-activity/all/
+2024-10-23 15:34:37,696 - __main__ - INFO - Current number of unique profiles collected: 15
+2024-10-23 15:34:37,696 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:42,803 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nikhil-agarwal-3009?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADVyCGoBmmrG-3orekAa3z-fnskRKpy9HdQ/recent-activity/all/
+2024-10-23 15:34:42,807 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rohit-prasad25?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADkqbSIBHsDnV-uzBBu-X7r_2LpJiPSR4_s/recent-activity/all/
+2024-10-23 15:34:42,812 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ashish-kumar-085865192?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC1VSCUBVlBwb7n5re-j8yZ8fox18L0IBNM/recent-activity/all/
+2024-10-23 15:34:42,818 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kushagra-sundriyal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEOzvFAB_yY8gvdraC2btRAIqYlCwtdGQVU/recent-activity/all/
+2024-10-23 15:34:42,824 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tanmay-aggarwal2411?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPPT5sBYB99hQ-Tq4WJFDPt915GxBwx7AM/recent-activity/all/
+2024-10-23 15:34:42,864 - __main__ - INFO - Current number of unique profiles collected: 20
+2024-10-23 15:34:42,865 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:48,001 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/siddharth-singh-84bb47a9?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABcgy_sBXrHZGCVmmOSfb9jwOIrmcvtAaOM/recent-activity/all/
+2024-10-23 15:34:48,005 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/devashish-upreti-45640a210?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADV0NgIBkTxrwsxfxMHIqQu-O3WuuAL1mTc/recent-activity/all/
+2024-10-23 15:34:48,010 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/priyanshu-mishra-212528152?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACS9tS4BBu3QZc-Frx78jVgxw7U-wrRcYGE/recent-activity/all/
+2024-10-23 15:34:48,016 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shubhamtalan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACXRDZ8BtL0nIb2Ihuzo2go9d2_1RpgJ9lU/recent-activity/all/
+2024-10-23 15:34:48,021 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rudr-pratap-singh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEWbOAEBFET79v6UemIGEMnZNj7hJ0jdB84/recent-activity/all/
+2024-10-23 15:34:48,055 - __main__ - INFO - Current number of unique profiles collected: 25
+2024-10-23 15:34:48,056 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:53,202 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aryan-bharat-5b219b179?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACo1QpYBuVZUdxlhXY0QV6HAqxxDgP0_Bu8/recent-activity/all/
+2024-10-23 15:34:53,207 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vatsal-maskara?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACgnsBkBLe-QCXtnKJXI-DAndWJfoVquwOI/recent-activity/all/
+2024-10-23 15:34:53,212 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tiwarishubham635?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABLhHIkBsXfR2kYh2O10NEiGzg9fkE_kKE0/recent-activity/all/
+2024-10-23 15:34:53,218 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/saksham-dhillon-6a5474226?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADiqZd0BfIH4ndFzMYHMvpm2LkLVn4s591o/recent-activity/all/
+2024-10-23 15:34:53,225 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aryan-nayar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACyxGXsBWB9CNVioIUdTYMRXRbGx3afzuEs/recent-activity/all/
+2024-10-23 15:34:53,230 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/debarpan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDPvRIBZkcA7ibgC493qWRexi6SZ8ABADk/recent-activity/all/
+2024-10-23 15:34:53,237 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vinit-singroha-6714bb253?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD6LaPUBw07CE8doF191rxW5_rHF3oa965E/recent-activity/all/
+2024-10-23 15:34:53,245 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/himanshu-mittal2001?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACqT_SAB5l1XVE5XABQw5tfyWCbhACOItgk/recent-activity/all/
+2024-10-23 15:34:53,282 - __main__ - INFO - Current number of unique profiles collected: 33
+2024-10-23 15:34:53,282 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:34:58,466 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sachin-sulaniya?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADtYE1IBxTKp7rcFvtSDsDWZ9o1YjjG_J4w/recent-activity/all/
+2024-10-23 15:34:58,471 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/devender-kumar-1702a2235?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADqY4GQBJOrNWEhj1pTTUY2dCqBSULev4Bg/recent-activity/all/
+2024-10-23 15:34:58,476 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhinav-maurya-127a5123a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADuZdG8B1YH-h7pn-tW00uArp8nSkzLkJtw/recent-activity/all/
+2024-10-23 15:34:58,483 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nishant-k-9a920981?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABFLalEBZl81G-vRfkKaavTkWkcX6UofHdo/recent-activity/all/
+2024-10-23 15:34:58,489 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/suraj-kumar-85724118b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACy1F4MBee6_UReTXGyYibQ3sxGPAFXSx6E/recent-activity/all/
+2024-10-23 15:34:58,525 - __main__ - INFO - Current number of unique profiles collected: 38
+2024-10-23 15:34:58,525 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:03,735 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nishigandha-mittal-167627291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEa_6h8Bq8m1HxNi42b8aw7IawbXgPk8Cuo/recent-activity/all/
+2024-10-23 15:35:03,741 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ananya-das-b05899162?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACbuG_UB1GIyQlOepg-FRO7iI8v9Ly6gdC4/recent-activity/all/
+2024-10-23 15:35:03,747 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankit-kaswan-220373219?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADcMgHgBFtQPzhBTYBZdN6B_2gqZDEqaIrI/recent-activity/all/
+2024-10-23 15:35:03,754 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ritik-malhotra-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACvqGasBTr3P2-k5ecwM9eQC00EWAEabl5s/recent-activity/all/
+2024-10-23 15:35:03,762 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/utkarsh-keshri-nov22?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwcom0ByPyLNbBJJx2GDAqIhgTUMuNX_4w/recent-activity/all/
+2024-10-23 15:35:03,768 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/maahip30?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8BY1gBYgf3Rqc6jsTnEA1rPc7RS2osh5o/recent-activity/all/
+2024-10-23 15:35:03,775 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/hari-om-sharma-a4b168171?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACjHvdsBzrfBlJYVhx99Yc_AlC-o4GV_qPk/recent-activity/all/
+2024-10-23 15:35:03,817 - __main__ - INFO - Current number of unique profiles collected: 45
+2024-10-23 15:35:03,818 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:09,052 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/4byx?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPcC14B18DhV4d0t2ISVl3JImeomOh43RI/recent-activity/all/
+2024-10-23 15:35:09,058 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kartik-kumar-anraj-5991b721a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADcz2YUBclet95I3eDhoK1bFF-IEuMw1qvI/recent-activity/all/
+2024-10-23 15:35:09,064 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tanujgarg0101?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADz6sfwBjdFLIbWsBnuptJEcsl5Fgis35WQ/recent-activity/all/
+2024-10-23 15:35:09,072 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/bipasha-kumar-5565b0215?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADZfChIB1DA5uomQCyYWzRNx7rf6AjIdfPQ/recent-activity/all/
+2024-10-23 15:35:09,078 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/meispi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACFIGAYB8mvDKtOcuQ4jHTdUgUqEZRqQxVo/recent-activity/all/
+2024-10-23 15:35:09,084 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sukrit-kumar-syal-209758215?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADZk8CkBdMIsTcioG7LzXzauED__5jBByc0/recent-activity/all/
+2024-10-23 15:35:09,091 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/amar-tarei-a24012262?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEBuBDwBntz7Tom6LkgOBkkSgYY8JA_iTok/recent-activity/all/
+2024-10-23 15:35:09,126 - __main__ - INFO - Current number of unique profiles collected: 52
+2024-10-23 15:35:09,126 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:14,406 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vishal-saini-487577163?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACcPlOcBM0Dzc6g_1SHdSWnUZ8pw-BBgRSI/recent-activity/all/
+2024-10-23 15:35:14,410 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/samman-sarkar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACWyKY4BQTt6oXoQFWU1UeMn_uGEcnp7mnc/recent-activity/all/
+2024-10-23 15:35:14,415 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/keshav-garg-40a340223?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADgc2koB_TWqwkHKovjrgeF6Fbrek6tHBjE/recent-activity/all/
+2024-10-23 15:35:14,422 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aryadeepruhil?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACd16CYBDFYxlyDcuP8hfx58_YIicV8z4LU/recent-activity/all/
+2024-10-23 15:35:14,457 - __main__ - INFO - Current number of unique profiles collected: 56
+2024-10-23 15:35:14,458 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:19,786 - __main__ - INFO - Current number of unique profiles collected: 56
+2024-10-23 15:35:19,787 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:25,075 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/pratham-kanojia-82a23b12b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB_kieIBfU2CyqYDU2xtxkhcwTYnwoukr44/recent-activity/all/
+2024-10-23 15:35:25,105 - __main__ - INFO - Current number of unique profiles collected: 57
+2024-10-23 15:35:25,106 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:30,408 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tushar-jain-32726914a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACP9XI8Bjjd2eyIk8gy49KEucaUgHuASyvY/recent-activity/all/
+2024-10-23 15:35:30,414 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/jatin-yadav-380116248?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD09x5ABFyMtD_5gCGH2g4WC5e2td0CiHnQ/recent-activity/all/
+2024-10-23 15:35:30,421 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ekansh-kumar-726b31251?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD5IEc4BXbYPcC2vTgiqvQNT4MaFIF_QfNM/recent-activity/all/
+2024-10-23 15:35:30,430 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/chitra-agrawal-1a1728264?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEDkLQkBizmTUjKBbMCy5F2Uc0vFhJdD8D0/recent-activity/all/
+2024-10-23 15:35:30,463 - __main__ - INFO - Current number of unique profiles collected: 61
+2024-10-23 15:35:30,463 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:35,786 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rmukherjee04?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEDm4TwBCYTNmAh_aSC0BaW8O4vJuCGphNQ/recent-activity/all/
+2024-10-23 15:35:35,791 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/chirag-singhal-81aa251aa?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADDq4FYBqra_0vBuPMb4wniKXCq7MiLOhUs/recent-activity/all/
+2024-10-23 15:35:35,823 - __main__ - INFO - Current number of unique profiles collected: 63
+2024-10-23 15:35:35,823 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:41,183 - __main__ - INFO - Current number of unique profiles collected: 63
+2024-10-23 15:35:41,183 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:46,502 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/divanshbansal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEB-I1cB0FhdA5njrGOCig-KzFIRakuOXRU/recent-activity/all/
+2024-10-23 15:35:46,534 - __main__ - INFO - Current number of unique profiles collected: 64
+2024-10-23 15:35:46,534 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:51,864 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sachin-naagar-75612a151?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACSBBbIB23R1LNoxeSj0JnLEgx63E3xaT7E/recent-activity/all/
+2024-10-23 15:35:51,869 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nischaymahamana?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADOYnLMB2ibidM3zX9UPI5YYsreuRV3GXRA/recent-activity/all/
+2024-10-23 15:35:51,906 - __main__ - INFO - Current number of unique profiles collected: 66
+2024-10-23 15:35:51,907 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:35:57,271 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yashita-k-?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADNcxTwBxGgo4J20njkaqVUEgFMlRz952EA/recent-activity/all/
+2024-10-23 15:35:57,303 - __main__ - INFO - Current number of unique profiles collected: 67
+2024-10-23 15:35:57,304 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:02,976 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/darshmittal?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADr9LrsBTHedSAlyRjE024erfc4ubBTizO0/recent-activity/all/
+2024-10-23 15:36:02,982 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/karanpreet-singh-k2002?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADjFoPcBAMqltnE0TMJRlBm83KNHMPy20N4/recent-activity/all/
+2024-10-23 15:36:02,990 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/zontac?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEQle_8BAFVTvGN-8R8JgFWBvT596SngefQ/recent-activity/all/
+2024-10-23 15:36:03,043 - __main__ - INFO - Current number of unique profiles collected: 70
+2024-10-23 15:36:03,044 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:08,423 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/mr0kaushik?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACZ5IxsBgmqJ5jzXZUzFSvrPbn07lowJncw/recent-activity/all/
+2024-10-23 15:36:08,428 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rajatyadavvv?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADRwMqoBTQPMoShU3Ez0e1Pq0lymWSxuOUs/recent-activity/all/
+2024-10-23 15:36:08,434 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/imvivekthakur?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADid9QUBEHDJce6sTXCP1kNUGd8iRGMl1LA/recent-activity/all/
+2024-10-23 15:36:08,443 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ansh-bhatia-w25?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACEDle4BbnrB3gc6YID24bCbGiH0UDAxyTU/recent-activity/all/
+2024-10-23 15:36:08,489 - __main__ - INFO - Current number of unique profiles collected: 74
+2024-10-23 15:36:08,490 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:13,899 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/daksh-dhangar-195321233?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADo-_cEBVHkT8ByBxhazaFUUx478wTd1Gxc/recent-activity/all/
+2024-10-23 15:36:13,903 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/anshumansinha3?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACl-UO0BBM5BDVHLkJ52X_IyD-4EE_iUDXE/recent-activity/all/
+2024-10-23 15:36:13,908 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/pinaki-jha-6ba679195?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC3Wz64BIdltzBW2qGeaGvx7TdsHVCPrReA/recent-activity/all/
+2024-10-23 15:36:13,959 - __main__ - INFO - Current number of unique profiles collected: 77
+2024-10-23 15:36:13,959 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:19,398 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shreyansh-jindal-640031181?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACrljVABIhRwya16Vhs5VjOQ7JWezJSMBjc/recent-activity/all/
+2024-10-23 15:36:19,402 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sahil-khan-33a678215?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADZhxt4BxY3EnyMl36Y1qbaBbM6xgqHvwQ8/recent-activity/all/
+2024-10-23 15:36:19,410 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/-ansh-sharma?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADiirVcBTvadaVL1QWbej50vPwPWzkxOrMs/recent-activity/all/
+2024-10-23 15:36:19,419 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/manishi-saxena?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADG1twgBtga9cnWeTdnTStWieL3mouV2FvM/recent-activity/all/
+2024-10-23 15:36:19,427 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vasu-pal-300448203?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPbW7AB2Hxn1wzfy5Gcq2c3508MqOxIjUI/recent-activity/all/
+2024-10-23 15:36:19,435 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/himanshu-5aa175199?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC55-BIBEztQkh0_3cVAZnNCIe0q5Cbs6Yk/recent-activity/all/
+2024-10-23 15:36:19,486 - __main__ - INFO - Current number of unique profiles collected: 83
+2024-10-23 15:36:19,487 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:24,967 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/harshit-singh-599826207?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADSgHcUBPPbmYOJ9PdAhl0yMiGPVSEZT388/recent-activity/all/
+2024-10-23 15:36:24,971 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/deepaksach17?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACmrLY8B6nCpw8IvzZoPARQhOgbIxqaIGNM/recent-activity/all/
+2024-10-23 15:36:25,006 - __main__ - INFO - Current number of unique profiles collected: 85
+2024-10-23 15:36:25,006 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:30,543 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/manit-jain-4b4476203?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPcQkgBCNc9rIAtQMwrQH8t6-N7TkJEjXo/recent-activity/all/
+2024-10-23 15:36:30,548 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sheetal-lodhi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEFn67YBaZknBw-UwE0CSYGw9WQFmhxbd6A/recent-activity/all/
+2024-10-23 15:36:30,553 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ayushmaan-rajput-004836198?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC5lu4QBU7tapjJUM0R2p2XVq65qN80rqXw/recent-activity/all/
+2024-10-23 15:36:30,560 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/utkarshgupta2504?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACM4TiABHV38BT68JpRj5EHWoZ6wRFIu5QM/recent-activity/all/
+2024-10-23 15:36:30,567 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAACM4TiABHV38BT68JpRj5EHWoZ6wRFIu5QM?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACM4TiABHV38BT68JpRj5EHWoZ6wRFIu5QM/recent-activity/all/
+2024-10-23 15:36:30,572 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vijeta-kumar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACv_OZgBbhj7xM8vQCw_idLLdFp7xplLduU/recent-activity/all/
+2024-10-23 15:36:30,581 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kanishk-kumar-7a618822b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmDPm4Bze3T9jBI20LWYHF50PkUlEcPL4w/recent-activity/all/
+2024-10-23 15:36:30,588 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/akhilesh-kmr?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADHJDCEBaMn80OrVzaxQ-lorcBNJYwAaOzc/recent-activity/all/
+2024-10-23 15:36:30,594 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rajesh-kumar-945802204?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADQWssUB0L8lMgz7RI8lSX3u-9x7I5qdzco/recent-activity/all/
+2024-10-23 15:36:30,630 - __main__ - INFO - Current number of unique profiles collected: 94
+2024-10-23 15:36:30,630 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:36,139 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/amans1nghh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADusuzEB_AbWLSERnrJNbN2dVA3FAC0ifs4/recent-activity/all/
+2024-10-23 15:36:36,143 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kunal-joshi-83ab4719a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC7Mm-4BBfTv9I7e6_iOGoRd_XlmxNmJ0O4/recent-activity/all/
+2024-10-23 15:36:36,149 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sanjog-kukreja-78330b262?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEB5UpMByCMG98X5i_HF_BwMSFEk7qNigfQ/recent-activity/all/
+2024-10-23 15:36:36,156 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/anshu-gupta29?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC2DeK8BsgB8qaFXzxYWv-Rawp7TRPuXr7E/recent-activity/all/
+2024-10-23 15:36:36,164 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/arpita-johry-a77b03238?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADtAnjsBYLnu1aCTkWmm_KCuVsLSjy3brBk/recent-activity/all/
+2024-10-23 15:36:36,172 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/pulkit-singh-gahlawat-34b428254?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD62CesBHvps13ys93I_9-Ge10Bx8CQb_Go/recent-activity/all/
+2024-10-23 15:36:36,181 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhishekprasad-it?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADkJj6QBofBsgP6PMhxBeIIHw79WrT59yNI/recent-activity/all/
+2024-10-23 15:36:36,218 - __main__ - INFO - Current number of unique profiles collected: 101
+2024-10-23 15:36:36,219 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:41,728 - __main__ - INFO - Current number of unique profiles collected: 101
+2024-10-23 15:36:41,728 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:47,242 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/dhruv-agarwal-588502260?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEAljLgB418goiwoYNB0JK8Xw4C4rsRmb8E/recent-activity/all/
+2024-10-23 15:36:47,247 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/mitansh-sharma-00a68228b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEZmjYoBPsxq6R6p7m7fousTY-YgYHbU28s/recent-activity/all/
+2024-10-23 15:36:47,252 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/allen-singh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAERl680BGCCNPUuGQnzvkw5V_kCw7Oyf45k/recent-activity/all/
+2024-10-23 15:36:47,293 - __main__ - INFO - Current number of unique profiles collected: 104
+2024-10-23 15:36:47,293 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:52,834 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shivam-mittal-90757322a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlkbFcBnENJ4K1Vkrzc4Wdmd2K6giYGMoQ/recent-activity/all/
+2024-10-23 15:36:52,867 - __main__ - INFO - Current number of unique profiles collected: 105
+2024-10-23 15:36:52,868 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:36:58,421 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rohit-kumar-7383551b8?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADKY3twBA24OpAUJne69BFmK_gfyjHaQnuU/recent-activity/all/
+2024-10-23 15:36:58,426 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vatsal-veerwal-829715285?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEVW22EBx3tC9yCjcU5Cm8HwzZQcavrMQJc/recent-activity/all/
+2024-10-23 15:36:58,498 - __main__ - INFO - Current number of unique profiles collected: 107
+2024-10-23 15:36:58,498 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:04,168 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/varun-sanjeevan-a89324253?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD6ElwkB8A4bXzAi0JYNha01jFzhSwur5B8/recent-activity/all/
+2024-10-23 15:37:04,203 - __main__ - INFO - Current number of unique profiles collected: 108
+2024-10-23 15:37:04,203 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:09,803 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sarthak-garg-delhi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2qMicB6kAloSJANsU_Ar-pGMkvDUHgHF8/recent-activity/all/
+2024-10-23 15:37:09,838 - __main__ - INFO - Current number of unique profiles collected: 109
+2024-10-23 15:37:09,838 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:15,417 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shobhit-sayala?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACfnwrsBidxaxewVWCsMltgjGnzEdJAlXqs/recent-activity/all/
+2024-10-23 15:37:15,452 - __main__ - INFO - Current number of unique profiles collected: 110
+2024-10-23 15:37:15,453 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:21,058 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/neeraj-sharma-958528224?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADhRmVQBT2fOMVUD0MO6wZzMpGMfD1mU_Ag/recent-activity/all/
+2024-10-23 15:37:21,062 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kashish-jain-377261291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEax1ssB8asPW4XclSOQ_IVaKpjarSx6U4o/recent-activity/all/
+2024-10-23 15:37:21,067 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/raju-gupta-871925280?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAER69JUBYvLFJ_WJ1hdJ9QOwIEdQYpR7ACc/recent-activity/all/
+2024-10-23 15:37:21,109 - __main__ - INFO - Current number of unique profiles collected: 113
+2024-10-23 15:37:21,109 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:26,776 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nimmy-rose-jacob-231a8644?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAlp6cUBxNnxmhi934mziQBYOH9N0WJhePM/recent-activity/all/
+2024-10-23 15:37:26,782 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/arihant-jain-58a681232?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADoeufoB39ZFMPXrwHf2Cb1WZEXKBbd3r38/recent-activity/all/
+2024-10-23 15:37:26,791 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/raghav-khandelwal-5972b4214?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADYmMUMB4g-tr2YrSrqPQgksu7MS2PvtIv0/recent-activity/all/
+2024-10-23 15:37:26,804 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rahul-pratap-singh-b975451b0?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADEzqGMBXVzxYprDXwFG6KlLGikbS6O-OI8/recent-activity/all/
+2024-10-23 15:37:26,857 - __main__ - INFO - Current number of unique profiles collected: 117
+2024-10-23 15:37:26,857 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:32,417 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/bhavya-jalan-721431236?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADrLzckBcnIU2N0WTR-CzyK2l7xNbhykHm8/recent-activity/all/
+2024-10-23 15:37:32,422 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rishabhprasad03?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADLshBoB3aDxoW-71zmQkg459FWq9w_gkD0/recent-activity/all/
+2024-10-23 15:37:32,427 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shilpi-sehrawat-9247ba16b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACiFB6wBdfyRtGuYzgVwPugOMAadbIBljR0/recent-activity/all/
+2024-10-23 15:37:32,434 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/navneet-kanojia-084199251?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD4kMiQBUixwcMCwmHt0IhDyHL47l6IOi3E/recent-activity/all/
+2024-10-23 15:37:32,439 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/deepanshu-parashar-b2843a27a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEQNTNAB6HVjLQFS5K4dq9bYsKy7X5nYvXY/recent-activity/all/
+2024-10-23 15:37:32,447 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vineetkumar24?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADqcenMB5BHcDgZiOPvecawrp49o5AF9trM/recent-activity/all/
+2024-10-23 15:37:32,458 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nishant-tomer-5601even?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADX-Jh0BTbI1Od9r1Hr1EccYyg_T1If4oBs/recent-activity/all/
+2024-10-23 15:37:32,492 - __main__ - INFO - Current number of unique profiles collected: 124
+2024-10-23 15:37:32,492 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:38,170 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sankush-soni-285aa1238?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADs_6kUBd7E0t-_Z1SY2owbFObkMeyhuhgA/recent-activity/all/
+2024-10-23 15:37:38,177 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kumud-nikhil-7bb403244?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADySiL8BcrS5uLZAk7ObanVGt5HA2IYij9g/recent-activity/all/
+2024-10-23 15:37:38,184 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhinay-dubey0903?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADF1kBEB6mjuT58Ywu2KYVQSXt3XJCycmZY/recent-activity/all/
+2024-10-23 15:37:38,190 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ojas-shakya-a19904264?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEDrDLUBRgQhE0TDOGtc9E6czR8Lz0okKak/recent-activity/all/
+2024-10-23 15:37:38,196 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/lovish-garg-985126256?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8Fu_UBxzQUFcLbGWpPY0LVApfaaO-Kv78/recent-activity/all/
+2024-10-23 15:37:38,203 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ayush-singh-chauhan-22945722b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmNpYEBo2L_pJv3mgQ4AbOIYg1iDauseKM/recent-activity/all/
+2024-10-23 15:37:38,210 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sarthak-malik-95bb861b4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADIB-dcBhI20ozErCVzDiwEzHH8Xn-DGjHM/recent-activity/all/
+2024-10-23 15:37:38,215 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/divyanshu1864?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD69HeIB6AXkCeymoX48WX3aNuTUp3AKz4I/recent-activity/all/
+2024-10-23 15:37:38,221 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/santosh986?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEfLl0sB1c944n-1sMLabpF0gmuwJ8R5baw/recent-activity/all/
+2024-10-23 15:37:38,254 - __main__ - INFO - Current number of unique profiles collected: 133
+2024-10-23 15:37:38,255 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:43,878 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aman-mishra-896a8a23b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADvIOHIBwL9T57OxT1jIC8KiAFzTuP-VyZc/recent-activity/all/
+2024-10-23 15:37:43,883 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nihal-sharma-566544258?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9wnh4BqpSbOpDjoX0xrCs-9ywLkaPbrYg/recent-activity/all/
+2024-10-23 15:37:43,889 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/saurav-mishra-41102a22b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADl9l80Bceb-mezOEIab5ToQ5G46Wh3glwg/recent-activity/all/
+2024-10-23 15:37:43,895 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vanika-dhawan-11062422a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlmpZwByfXIS4x3xXmEbW5CFYczP8RsDvU/recent-activity/all/
+2024-10-23 15:37:43,932 - __main__ - INFO - Current number of unique profiles collected: 137
+2024-10-23 15:37:43,933 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:49,604 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tanmayarora17?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADgN1k0BWviLwTzrwnx0A2PSJrm24iC-KjQ/recent-activity/all/
+2024-10-23 15:37:49,608 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/jagrat-singh-chandel?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEW59IgBMIy7QUEt_CFQSB8o8T3K5wGuDxA/recent-activity/all/
+2024-10-23 15:37:49,613 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/saksham-gupta-9b0349209?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADTo-lQBWeE6Ul3z9r_vSe2p2LKFNZtf-n4/recent-activity/all/
+2024-10-23 15:37:49,619 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aarav-kumar-630054265?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAED4A4QBK82S-uZXmO22F5mQx6pqZn_6W70/recent-activity/all/
+2024-10-23 15:37:49,625 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/omprakash-parewa-29815a257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD80VhQBJFUg7j6WiAfvBPIF5Hb5f1LZNoE/recent-activity/all/
+2024-10-23 15:37:49,633 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vaibhav-rajoria0709?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPp1OwBIzXyunrI-T82pYLfAE4p6egBEdc/recent-activity/all/
+2024-10-23 15:37:49,641 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/divakar-kumar-a000b1239?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADtH12ABZUKLS-nivMbP06M7tDr2bGbp9yI/recent-activity/all/
+2024-10-23 15:37:49,674 - __main__ - INFO - Current number of unique profiles collected: 144
+2024-10-23 15:37:49,674 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:37:55,475 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yash-kumar-aab631261?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEBX1-MBhkqMsAMj9tzNHEgZD-TXiX5fR28/recent-activity/all/
+2024-10-23 15:37:55,480 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/divyam-agarwal-15b110258?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9gXdcBbAw8JDfugi7_v6FGWajvDz1LWL0/recent-activity/all/
+2024-10-23 15:37:55,485 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhinav292?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABWSv-ABJ5qWcf5gQMOSJfaQz6Xgit8M2jU/recent-activity/all/
+2024-10-23 15:37:55,492 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAABWSv-ABJ5qWcf5gQMOSJfaQz6Xgit8M2jU?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABWSv-ABJ5qWcf5gQMOSJfaQz6Xgit8M2jU/recent-activity/all/
+2024-10-23 15:37:55,495 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/dhruv-verma-a69b74208?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADTam_EBU9vzSV1XWFRDp_Rr1IV9uVYleck/recent-activity/all/
+2024-10-23 15:37:55,505 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/bhavya-gulati-a27273257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD84mP8BSylVSzkeV03tythGfVFuUiS8qR0/recent-activity/all/
+2024-10-23 15:37:55,550 - __main__ - INFO - Current number of unique profiles collected: 150
+2024-10-23 15:37:55,550 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:01,395 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/uttam-kumar-038015210?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADVlMuwB6ak37WkJYYIIVmr2AFA-LN1QiWg/recent-activity/all/
+2024-10-23 15:38:01,401 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/siddharthdagar25?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlMCN0ByiHUYzrxFEcuc1TSfsuljbeOE1k/recent-activity/all/
+2024-10-23 15:38:01,408 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ashutosh--rai?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADl4cQkBdC3lUA7LE4jeNUDyGl7jJ58SZnc/recent-activity/all/
+2024-10-23 15:38:01,426 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADl4cQkBdC3lUA7LE4jeNUDyGl7jJ58SZnc?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADl4cQkBdC3lUA7LE4jeNUDyGl7jJ58SZnc/recent-activity/all/
+2024-10-23 15:38:01,437 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ayush-arora4?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACh4FGEB11wzuFiypCUBxJMGguHASocNctI/recent-activity/all/
+2024-10-23 15:38:01,457 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/chaudhary-abuzar-576803173?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACk7Z2oBk8MIMGpwiaPbY-mtyKv20t7REZ4/recent-activity/all/
+2024-10-23 15:38:01,538 - __main__ - INFO - Current number of unique profiles collected: 156
+2024-10-23 15:38:01,538 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:07,339 - __main__ - INFO - Current number of unique profiles collected: 156
+2024-10-23 15:38:07,339 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:13,132 - __main__ - INFO - Current number of unique profiles collected: 156
+2024-10-23 15:38:13,132 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:18,954 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/samarth-agnihotri-405588262?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAECDXEUBpJKIllWrasgLBZ4CXJ2nlsx4PZg/recent-activity/all/
+2024-10-23 15:38:18,959 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/harsh-pant-709635264?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEDgoLkBJYda9A6EKhB9EOvmdb6oDWNXxwc/recent-activity/all/
+2024-10-23 15:38:18,993 - __main__ - INFO - Current number of unique profiles collected: 158
+2024-10-23 15:38:18,993 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:24,737 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/divyanshu-prajapati-ba6399259?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD-YUG4Bk3egiQnTcy8TGWyllzys2eYjuyI/recent-activity/all/
+2024-10-23 15:38:24,770 - __main__ - INFO - Current number of unique profiles collected: 159
+2024-10-23 15:38:24,770 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:30,556 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ayush-mani-tripathi-01330a257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD86V48BNAPsBEBW6hTsTBPzWepFnVq6n-s/recent-activity/all/
+2024-10-23 15:38:30,561 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/avni-gupta-4a9888213?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADYOkMEBu-JlpDpKc1zwopu5QX6b8YO_s4w/recent-activity/all/
+2024-10-23 15:38:30,593 - __main__ - INFO - Current number of unique profiles collected: 161
+2024-10-23 15:38:30,593 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:36,426 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aman-pandit-a46a05286?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEWPf5YBfLC4qzlHkOrnmTetG9JaRqsSySc/recent-activity/all/
+2024-10-23 15:38:36,461 - __main__ - INFO - Current number of unique profiles collected: 162
+2024-10-23 15:38:36,461 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:42,281 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/manas-madan-803a1328a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEZGAcMBYHCJekfg3PjG_nIIjdUiu9-FDbI/recent-activity/all/
+2024-10-23 15:38:42,333 - __main__ - INFO - Current number of unique profiles collected: 163
+2024-10-23 15:38:42,334 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:48,125 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhilasha-saini-1325651a6?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAi5HYBic6CyvYkbzMToiAC_rG7pNPZZkA/recent-activity/all/
+2024-10-23 15:38:48,129 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shubham-singh2202?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAELnzzQB1JNit0NLpAez1TO9j-_jv5iITeM/recent-activity/all/
+2024-10-23 15:38:48,161 - __main__ - INFO - Current number of unique profiles collected: 165
+2024-10-23 15:38:48,161 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:38:53,968 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/gagansingal26?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmNp78BvrJLErvLloAdL4Hnf-zM4tRH-Ok/recent-activity/all/
+2024-10-23 15:38:53,974 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/anshul369?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACx3KNQBEWAt9vHcHTumxEuSdNLQ4o_ITc0/recent-activity/all/
+2024-10-23 15:38:54,009 - __main__ - INFO - Current number of unique profiles collected: 167
+2024-10-23 15:38:54,010 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:00,081 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankit-yadav0309?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADhtt98BaomJ2JuKuwPXmI0HVdjSSTbKkfU/recent-activity/all/
+2024-10-23 15:39:00,086 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/manisha-kumari-46694b257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9SbM4BOWS3RoFDy2iNYXM_UeV9ejlGzAg/recent-activity/all/
+2024-10-23 15:39:00,091 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/alan-sajith-81099a27b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAERPvQwB7UBG--Z63pwKjI8x1jlqXw7rg3s/recent-activity/all/
+2024-10-23 15:39:00,098 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/harnirvair?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAALX6-sBQ0q7mrRwI0J958l2loqhhpctH8I/recent-activity/all/
+2024-10-23 15:39:00,105 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/daksh-saxena-709715273?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAELY-rkBwx5JZqmjQKQErsvDQ9sSRcI60Rk/recent-activity/all/
+2024-10-23 15:39:00,115 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vansh10chawla?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADOfCAEBpKEelDs_nbxwxG3-4zQTaw1zVsk/recent-activity/all/
+2024-10-23 15:39:00,156 - __main__ - INFO - Current number of unique profiles collected: 173
+2024-10-23 15:39:00,156 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:05,988 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/naman-gandhi-16a25a242?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADwxkWIBnyRw0rxP3zH4M3j5yBTT_8l53FM/recent-activity/all/
+2024-10-23 15:39:05,994 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/saurabh-goel-a21698145?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACMprLkB3wdUkyfDjTAy17vxzzdNKGIGdTM/recent-activity/all/
+2024-10-23 15:39:05,999 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/molly-priya?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEEkj4sBrpIpyW9iOeNAVpxY-2OU98tCP8g/recent-activity/all/
+2024-10-23 15:39:06,035 - __main__ - INFO - Current number of unique profiles collected: 176
+2024-10-23 15:39:06,036 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:11,886 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shivam-raj-shekhar-765231248?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD1CFf0BfOwuuxIhI0Zo1k-rV231Zi8ucqc/recent-activity/all/
+2024-10-23 15:39:11,893 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/mohammed-samir-ab45531a5?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC_0-2gBvCsuOaMMvU51B3SY9IqDhhBbREE/recent-activity/all/
+2024-10-23 15:39:11,900 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sanchay14022005?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADweg4QB3T2qYCGOuKaXvQG1P34KZTrLn5o/recent-activity/all/
+2024-10-23 15:39:11,907 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ritik-chauhan-8b1864280?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAER4ZgUB-buc2VZt-69Ltbnq6v-Q8Dp1zM0/recent-activity/all/
+2024-10-23 15:39:11,915 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shreyansh-tripathi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC3iMJIBWFHnJ20tOrukPjNIMltdjB5lamQ/recent-activity/all/
+2024-10-23 15:39:11,922 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/varshika15?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB1q9pcB6yJ5lJzbkojE-KeiGX2XwiRcYxQ/recent-activity/all/
+2024-10-23 15:39:11,928 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ashutosh-singh-170149131?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACA8HaQBrnmaNYximp78AIOD-a2N6vBZy7M/recent-activity/all/
+2024-10-23 15:39:11,935 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shivani-web-developer?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADdylRsBw55kOxdyT1g2BCrIntpa6WmQREM/recent-activity/all/
+2024-10-23 15:39:11,970 - __main__ - INFO - Current number of unique profiles collected: 184
+2024-10-23 15:39:11,971 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:17,835 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kanak22?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACvWbLkBwZVQTnaZfqF-FFhoqmucAeSE47M/recent-activity/all/
+2024-10-23 15:39:17,839 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aditya-garg-979764210?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWBWm0Bd68SEWmti-P7pscdh8HDfRW7VKU/recent-activity/all/
+2024-10-23 15:39:17,844 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankush-kumar-chauhan?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEgJn98BbbNiKSOY316exQzGIkTAz5hYHKg/recent-activity/all/
+2024-10-23 15:39:17,849 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/mehak-mittal-b85387224?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADhL4dUBtL1RlcjC7i_Swf3AymtCHQnAjpA/recent-activity/all/
+2024-10-23 15:39:17,856 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aadityachachra?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD59MRUBkCm6BUIbNCtra666cLKXVKJkGHk/recent-activity/all/
+2024-10-23 15:39:17,892 - __main__ - INFO - Current number of unique profiles collected: 189
+2024-10-23 15:39:17,892 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:23,823 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/harsh-dahiya-ba2147209?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADThVeoB1jUuNOlfd8RY06yJHW3BltScFrQ/recent-activity/all/
+2024-10-23 15:39:23,827 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ashwajeetbhatia?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8HQDoBdSNj-wZEo4W-voSFCfAt7GM6XNQ/recent-activity/all/
+2024-10-23 15:39:23,832 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/medha-verma-nsutdelhi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACaRr3ABB7T2K0ANZjNustVrqbeCVZ0WRjE/recent-activity/all/
+2024-10-23 15:39:23,838 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/koustubh-agarwal-4a7122196?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC3vnj8Bih3lAx8WyoWupaEOfgNC-FuUwUc/recent-activity/all/
+2024-10-23 15:39:23,843 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAC3vnj8Bih3lAx8WyoWupaEOfgNC-FuUwUc?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC3vnj8Bih3lAx8WyoWupaEOfgNC-FuUwUc/recent-activity/all/
+2024-10-23 15:39:23,847 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nishantchandhok?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADBg2ZIBE7C5xjTym90jG1Xw3A3dSHvNenA/recent-activity/all/
+2024-10-23 15:39:23,855 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ashna-y?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB3qm30BnyuMFpE5zI8ladwD5c3Bpfr_tYE/recent-activity/all/
+2024-10-23 15:39:23,862 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shubhankarsingh030?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAECZassBpfYBDq80-p7287txSNcxWnqIB0o/recent-activity/all/
+2024-10-23 15:39:23,868 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAECZassBpfYBDq80-p7287txSNcxWnqIB0o?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAECZassBpfYBDq80-p7287txSNcxWnqIB0o/recent-activity/all/
+2024-10-23 15:39:23,871 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/avasyu-sharma-609582260?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEAoFOkBzKgqOWNWtJVg19EE0ZzeYEVFJ7o/recent-activity/all/
+2024-10-23 15:39:23,904 - __main__ - INFO - Current number of unique profiles collected: 199
+2024-10-23 15:39:23,904 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:29,914 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aayush-dubey-0887b8257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9M9WgBoqpyx-bMZzCNtdSxA9c-nb4KhX0/recent-activity/all/
+2024-10-23 15:39:29,919 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aryanaryachoudhary?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmBHpABnX2TzSyXvatKxQwTYaJa7_5xMos/recent-activity/all/
+2024-10-23 15:39:29,925 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sachin-3b6837251?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD481HoBr5tj37jRcNX-od5IKcweERbDHds/recent-activity/all/
+2024-10-23 15:39:29,931 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/naman-kanwar-355061232?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADoHTrEB7TZlC9UrZ5gANNDEyhRnegjtNcg/recent-activity/all/
+2024-10-23 15:39:29,970 - __main__ - INFO - Current number of unique profiles collected: 203
+2024-10-23 15:39:29,971 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:35,933 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ramesh-thakur-4687b7313?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE-ssNABb2qntWLJCCLUVuM7_7J2ZFOzXEs/recent-activity/all/
+2024-10-23 15:39:35,937 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/happy-majoka-28631a324?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFHqugYBVIaLuLPCz7AMeBcGjn__VQZS4_Q/recent-activity/all/
+2024-10-23 15:39:35,975 - __main__ - INFO - Current number of unique profiles collected: 205
+2024-10-23 15:39:35,975 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:41,970 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nikita-sharma-8b10b21a5?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC_j3YUBi6q4C9nikNTH6IhwCtRy6OpUIGc/recent-activity/all/
+2024-10-23 15:39:41,975 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/mehul-raj-437326263?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAECnYOsBusaP1J0aqW7pebyxKUag0JwpnBw/recent-activity/all/
+2024-10-23 15:39:41,980 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/keshav-verma-544a2228a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEZGSoQB1uJPHSxYoW74oqU3riowYk33i-U/recent-activity/all/
+2024-10-23 15:39:41,988 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aditya-boken-3a11a128b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEZULukBvTRX1F62GRYsbsZz1AHt4W81DAc/recent-activity/all/
+2024-10-23 15:39:42,026 - __main__ - INFO - Current number of unique profiles collected: 209
+2024-10-23 15:39:42,027 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:48,107 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankit-kumar-mishra-17513a24b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD3HM2kBqFVUsTzQUbcVbINYIYTeALWJXh8/recent-activity/all/
+2024-10-23 15:39:48,144 - __main__ - INFO - Current number of unique profiles collected: 210
+2024-10-23 15:39:48,144 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:39:54,159 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ankit-akanksha-98768027a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEQWNXcBoE4w0ZkxNMxmA4AnlrMlytJwmxg/recent-activity/all/
+2024-10-23 15:39:54,165 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vidyanshh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADQmidoBrn_ZSmjUtHS0Qay0I1l6TYrjElQ/recent-activity/all/
+2024-10-23 15:39:54,222 - __main__ - INFO - Current number of unique profiles collected: 212
+2024-10-23 15:39:54,222 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:00,322 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kunal-gautam-81a561291?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEa9PVYBZIzFdLzUkFT1N5qdIL0GxurbiuA/recent-activity/all/
+2024-10-23 15:40:00,327 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/palak-4897b828b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEZrd6kBEySTAUzvji7JZbdZl91SvHHMr8w/recent-activity/all/
+2024-10-23 15:40:00,336 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aminujjma?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACUlH_QB9scdaJMrtSvcJnoa03jkNmK7dAw/recent-activity/all/
+2024-10-23 15:40:00,345 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/pragati-verma-tech?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8R-jAB-gwBGli6GU7ZgEnuroMNKwao2rk/recent-activity/all/
+2024-10-23 15:40:00,354 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/anshulanand02?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADct0ZIBbNN07in_XQAQsYNOf2YbNOrl4io/recent-activity/all/
+2024-10-23 15:40:00,397 - __main__ - INFO - Current number of unique profiles collected: 217
+2024-10-23 15:40:00,397 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:06,429 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhinav-bhardwaj-340315290?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEaGmKABf8SN44BFWB8-Bc7jL3wV5RyPBos/recent-activity/all/
+2024-10-23 15:40:06,433 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/atul-159242244?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADyMKlUBXtWL5P9yLymwizYs3AySeBR4cNw/recent-activity/all/
+2024-10-23 15:40:06,438 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/nishant-kumar-7ba12b228?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADj4vL4B59RvU_qzaZKIyuFQ664IFnqVcE4/recent-activity/all/
+2024-10-23 15:40:06,472 - __main__ - INFO - Current number of unique profiles collected: 220
+2024-10-23 15:40:06,472 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:12,712 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/pratyai-chakrabarty-7b8426265?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEEGTvwB1XO_sPIxycPO_58cHOeVomkjopk/recent-activity/all/
+2024-10-23 15:40:12,750 - __main__ - INFO - Current number of unique profiles collected: 221
+2024-10-23 15:40:12,750 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:18,926 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/darsh-singh-a2ab45255?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD7-v4IB6DK7ldCTULdgg4VPhJ0c6dyHmZA/recent-activity/all/
+2024-10-23 15:40:18,930 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/akansha-pandey-aa5aa4250?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD4ZAx0B6N0LI3BdDQOUoDDH2Fm7a4JjcV0/recent-activity/all/
+2024-10-23 15:40:18,934 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/antriksharya?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEEeK8MBBa4QPr4UBNjipDfJpuQznwYrmWA/recent-activity/all/
+2024-10-23 15:40:18,940 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rajat-tanwar-448745284?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEUqPDgBS9VK3fb3-6NselDiGRWlKOY0t9E/recent-activity/all/
+2024-10-23 15:40:18,975 - __main__ - INFO - Current number of unique profiles collected: 225
+2024-10-23 15:40:18,976 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:25,118 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/mitul-jain-23b249213?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADX2ig8BMdVgr8d0xHz0UIrkLt_kPMM3fDM/recent-activity/all/
+2024-10-23 15:40:25,123 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/prince-rajora?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEOONbwBAd_sE2RviGd4fsdiWn_AvqO9XgI/recent-activity/all/
+2024-10-23 15:40:25,129 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/arnav-gupta-278a67226?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADjA7rwBzcK8cUVKHAAtZyFC1uw09oBB6X8/recent-activity/all/
+2024-10-23 15:40:25,137 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/arpitkumarsingh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEYdow8BIi7JJ6AKpvQIhFkwIzzELmUgZbw/recent-activity/all/
+2024-10-23 15:40:25,145 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/eashan-bhardwaj-680a00282?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAETZG8ABP6FUE3-wFuYWevxKBMCBN1McTAQ/recent-activity/all/
+2024-10-23 15:40:25,156 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vikki-singh-318635203?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPijoQBjVe9O4d-GbpDgYfUQpN2tMsuR_g/recent-activity/all/
+2024-10-23 15:40:25,166 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/prachi-pandey-561164257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD80gBkBI5_vpxcIFt_95uR5Y4P9WK73Hfw/recent-activity/all/
+2024-10-23 15:40:25,207 - __main__ - INFO - Current number of unique profiles collected: 232
+2024-10-23 15:40:25,207 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:31,319 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhijeet2611?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEVFoqoB27Xb988D0H3Ut5yz5CatrJUypkk/recent-activity/all/
+2024-10-23 15:40:31,323 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/jaybhararia?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADXo8-EBi4Po06haGnlSB4FrJmh3okAvbOA/recent-activity/all/
+2024-10-23 15:40:31,328 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/jiya-6323b4255?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD7ijYYBgRGw4zZUmP82_OBqgrUiMP2BHXE/recent-activity/all/
+2024-10-23 15:40:31,334 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/riya-agarwal7101?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADBQNQ4BFKMzkdGOK16QpxtaCNi_h-exlEs/recent-activity/all/
+2024-10-23 15:40:31,371 - __main__ - INFO - Current number of unique profiles collected: 236
+2024-10-23 15:40:31,371 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:37,512 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/dhairya-kukreja-10a906255?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD715RoBosu9nZTNwcKQQfMALwu5Gfc08Hc/recent-activity/all/
+2024-10-23 15:40:37,517 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/laksshay-sehrawat-20b0a9220?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADeK5-sBCH0Gm55hJJzGIJHCkNh4qzMia08/recent-activity/all/
+2024-10-23 15:40:37,522 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/khushal-yadav-82b3a5210?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADVzdGMB-MWKi9OVKErqZY2P3__kzSXKbyE/recent-activity/all/
+2024-10-23 15:40:37,528 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/puneet-amrutkar-150039296?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEeNUIwBB3yDMzavyv-zdVvoLNwtvrsF0rE/recent-activity/all/
+2024-10-23 15:40:37,534 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yuvraj-singh-5a91ab255?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD7a05EB59LtsO5N4bMm2ovF_gtsqOb3u-Q/recent-activity/all/
+2024-10-23 15:40:37,540 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/pankaj-singh-906790225?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADiIwhYBmLdq9laXzm6_JsztVbQaejDj9Xg/recent-activity/all/
+2024-10-23 15:40:37,574 - __main__ - INFO - Current number of unique profiles collected: 242
+2024-10-23 15:40:37,574 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:43,794 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/bhavya-jain-5aa50924a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2n3BIBSfbp-OxSDKXbwemjUBnBfj5LOBw/recent-activity/all/
+2024-10-23 15:40:43,799 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/parth-garg-5958581b7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADJ-XkEBBqX9HHAxnziA5jIUOPvWl1xWr2Q/recent-activity/all/
+2024-10-23 15:40:43,805 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yash-maggu-87439124a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2i6JgBYHSBp55-oUjMZM_g1XRCvuUwWGE/recent-activity/all/
+2024-10-23 15:40:43,811 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aayush-pathak-330702123?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAB6J01QBWTEcyU0S19PF4EcPf0WcgGbduI0/recent-activity/all/
+2024-10-23 15:40:43,817 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/bhumika-bhatt-55504322b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADl-C1EB-RhhI47PoI_cf0vn00afFP0CV6c/recent-activity/all/
+2024-10-23 15:40:43,823 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yash-gautam-351377248?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD1HTC0BMUu2W0i1gpOYMRjUdIbXv3dHuOw/recent-activity/all/
+2024-10-23 15:40:43,868 - __main__ - INFO - Current number of unique profiles collected: 248
+2024-10-23 15:40:43,868 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:50,142 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rohan-puri-4293b9233?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADpCDiEBBB1pkywUoiASiWBXTVZN6t9nPJo/recent-activity/all/
+2024-10-23 15:40:50,150 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yash-sharma-7844a922b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmPSxQBsRoasc1bZ-hNbLplGAmqlt1Em0Q/recent-activity/all/
+2024-10-23 15:40:50,157 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/dev-ankit-kumar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADMJ5rUB79aKAmeq30QDeNZcBhcdXJIeDBY/recent-activity/all/
+2024-10-23 15:40:50,163 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ishant-arya-496674277?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEONTLIBITYOmy8crBUDPzIZytGQeHc_QFI/recent-activity/all/
+2024-10-23 15:40:50,171 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/harsh-dagar-118247229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADkqm-QBFOUiXK0sMsqQBElBqIqpG-fkEF4/recent-activity/all/
+2024-10-23 15:40:50,177 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/deepanshu-gupta-4a9131189?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACxV2IEBIMNXmT-BsF0NVO9s9gSGpapSK5Q/recent-activity/all/
+2024-10-23 15:40:50,185 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aman-ashiwal-b98b7a157?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACW59SQBKmZQUaHlRLMhob_yvuMZuOXqpkQ/recent-activity/all/
+2024-10-23 15:40:50,226 - __main__ - INFO - Current number of unique profiles collected: 255
+2024-10-23 15:40:50,227 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:40:56,550 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ayush-saxena-6a198b229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlGkhkBigDApDCFu-EUauuXGwJxvAr1DHM/recent-activity/all/
+2024-10-23 15:40:56,555 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kartik-saini-480800257?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9NEqABvRhXGSdTDUrMx_4Mh9LWSa5MXsE/recent-activity/all/
+2024-10-23 15:40:56,561 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAAD9NEqABvRhXGSdTDUrMx_4Mh9LWSa5MXsE?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD9NEqABvRhXGSdTDUrMx_4Mh9LWSa5MXsE/recent-activity/all/
+2024-10-23 15:40:56,565 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/harsh-raj-425555186?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACvdFR0BAaj_YXzGYQaRqdJg2t59OsDm5eM/recent-activity/all/
+2024-10-23 15:40:56,571 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/maahir-mittal-430553229?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADk2N6QBGrxmYzUZTM4yQZvbFRAV09C3pCo/recent-activity/all/
+2024-10-23 15:40:56,579 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sarth-sharma-7364aa209?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADTusZoBz949Z_3nZxQIKGhMf8EygC27Nyw/recent-activity/all/
+2024-10-23 15:40:56,587 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sunil-kumar-a24965250?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD4T-XwB3CpKAbBuk6lW6pFgXjgoToF06e0/recent-activity/all/
+2024-10-23 15:40:56,594 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ishantgarg?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD6OTqYBMq3r2aC36l1FbxYZKPsNZ5UP7Fw/recent-activity/all/
+2024-10-23 15:40:56,626 - __main__ - INFO - Current number of unique profiles collected: 263
+2024-10-23 15:40:56,626 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:02,835 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/geetanjali18?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADtC7woBYBHzO5huv9tWGDlIxMxaD15uWD8/recent-activity/all/
+2024-10-23 15:41:02,840 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shubham-kumar-645934213?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADYQrZUBlw8bhyrCj7S5-ad5inDJCCuVlIE/recent-activity/all/
+2024-10-23 15:41:02,844 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/akadeepesh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADmPYZgBfONFVR6Mb-L_Z0R8slSEVShcBas/recent-activity/all/
+2024-10-23 15:41:02,850 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/hemang-yadav-1a1538243?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADxp1gkBrCo8hl22EXuTKyCXeUuMf6BdxX8/recent-activity/all/
+2024-10-23 15:41:02,855 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tanxena?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2nSvMBywklravpu32tx-p_GINZq7b9Z04/recent-activity/all/
+2024-10-23 15:41:02,887 - __main__ - INFO - Current number of unique profiles collected: 268
+2024-10-23 15:41:02,887 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:09,115 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/md-nishar-00b7902b5?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEvBfQsB0Yba4XcmL7N1PNI0UCnevgleiHM/recent-activity/all/
+2024-10-23 15:41:09,119 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vinayak-mittal-2846b4312?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE97P4QBP20JoB_EuGRQGgJZD-cC1N9PVzA/recent-activity/all/
+2024-10-23 15:41:09,124 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vaibhav-saini-aa348b2a7?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEnueFsBvBGMrvhwMVX3ljnDeBbrC-NGi2Q/recent-activity/all/
+2024-10-23 15:41:09,160 - __main__ - INFO - Current number of unique profiles collected: 271
+2024-10-23 15:41:09,161 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:15,481 - __main__ - INFO - Current number of unique profiles collected: 271
+2024-10-23 15:41:15,482 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:21,715 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/vipulbhardwaj279?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADldxQkBf6H5baxOWa5lztalrf4avOaC06I/recent-activity/all/
+2024-10-23 15:41:21,748 - __main__ - INFO - Current number of unique profiles collected: 272
+2024-10-23 15:41:21,748 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:28,307 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/shranya-singla-b8b52828a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEYzepsBH9dXZNhwSIgCqjPqOY5zswU-IOY/recent-activity/all/
+2024-10-23 15:41:28,313 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sanskar-297015288?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEXE9FMBlWilcGPreZn2qlSHR_2NdD8C2aI/recent-activity/all/
+2024-10-23 15:41:28,318 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/krish-bansal-281b43281?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAESwrcEBs6xUeILBVwViWsrjk4IaMM72dz0/recent-activity/all/
+2024-10-23 15:41:28,325 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/sanyam-singla?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADPd-WsBDkZPY_jBwpl85ZUb9xO-bUU9jyU/recent-activity/all/
+2024-10-23 15:41:28,372 - __main__ - INFO - Current number of unique profiles collected: 276
+2024-10-23 15:41:28,373 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:35,234 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/rishabh-sharma-8b3a73205?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADROGEcBMFjpdFjU6YAE7dlzp4vaX5vJjhA/recent-activity/all/
+2024-10-23 15:41:35,280 - __main__ - INFO - Current number of unique profiles collected: 277
+2024-10-23 15:41:35,281 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:42,033 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/lovekush-84514b26a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEHffvUBsGEPMbU7-zC-Whr_-j2XBY0eWs8/recent-activity/all/
+2024-10-23 15:41:42,041 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/arnav777dev?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADgyjy0BzhjSQ06qdVxwGZFD0O2PFXkuO_k/recent-activity/all/
+2024-10-23 15:41:42,047 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/tgi-anu?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADguZcIBKWy08dgnZjy4FQLGL1AmlID82t0/recent-activity/all/
+2024-10-23 15:41:42,083 - __main__ - INFO - Current number of unique profiles collected: 280
+2024-10-23 15:41:42,083 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:48,577 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/devansh-garg-a244bb22a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADliGvwBZ-uNiI5fxKQqYoXubqJz_HPUYr4/recent-activity/all/
+2024-10-23 15:41:48,582 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/yashgoel2510?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD8LlF8B8J3wxQEZxzS3AbhekhlilW6hN64/recent-activity/all/
+2024-10-23 15:41:48,588 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kunal-jain-9b190b288?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEXm-9UBLSEvtQYQM51pUPxcfsT4o6TbU0c/recent-activity/all/
+2024-10-23 15:41:48,595 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/himanshi-408000202?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADOdIkgB-JnOVpwwtwBEaSGRlHYA18gqDXc/recent-activity/all/
+2024-10-23 15:41:48,601 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/kumarsumitnsut?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACNfriYBVbUzrHNCE1JCHSWjhA579VYHUok/recent-activity/all/
+2024-10-23 15:41:48,641 - __main__ - INFO - Current number of unique profiles collected: 285
+2024-10-23 15:41:48,641 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:41:55,017 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/khushi-jain-32065a22a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADlnwkgB-CzCn8U66choBqaRRsjb7FMEwds/recent-activity/all/
+2024-10-23 15:41:55,021 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/abhishek-sharma021202?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADSYtkQBFFxNxake1I7030ejaJ39ifLBEQM/recent-activity/all/
+2024-10-23 15:41:55,025 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ACoAADSYtkQBFFxNxake1I7030ejaJ39ifLBEQM?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADSYtkQBFFxNxake1I7030ejaJ39ifLBEQM/recent-activity/all/
+2024-10-23 15:41:55,028 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/aditya-sharma-166063162?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACbOmx4BWdh9Y_g0IxLRcteUvyrmEoitPes/recent-activity/all/
+2024-10-23 15:41:55,061 - __main__ - INFO - Current number of unique profiles collected: 289
+2024-10-23 15:41:55,061 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:42:01,472 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/prem-sagar-11885b293?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEcjr-QBLaltL9Q32JT53cbBIXx5dFvZ2Tg/recent-activity/all/
+2024-10-23 15:42:01,477 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/manoj-3b427a276?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAENQtLgBdYXji7_C0-5U55L7y14wkF1r3T8/recent-activity/all/
+2024-10-23 15:42:01,482 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/gurprakash-singh-8b6109216?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADZ6LcoBnpVmyfXONLBIiCqOk6DqHhn06rc/recent-activity/all/
+2024-10-23 15:42:01,522 - __main__ - INFO - Current number of unique profiles collected: 292
+2024-10-23 15:42:01,522 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:42:07,901 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ashwani-kumar-jha-10b900249?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD2JPJsBwyhxQV3RZWS-8J91o4uSTPq_iCA/recent-activity/all/
+2024-10-23 15:42:07,907 - __main__ - INFO - Profile URL extracted: https://www.linkedin.com/in/ayush-jain-684a02219?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADck2UQB16M0c6JkQR0fWwHIoQAzP8zd51E/recent-activity/all/
+2024-10-23 15:42:07,947 - __main__ - INFO - Current number of unique profiles collected: 294
+2024-10-23 15:42:07,947 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:42:14,428 - __main__ - INFO - Current number of unique profiles collected: 294
+2024-10-23 15:42:14,428 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:42:20,978 - __main__ - INFO - Current number of unique profiles collected: 294
+2024-10-23 15:42:20,979 - __main__ - INFO - Scrolling to load more content...
+2024-10-23 15:42:25,988 - __main__ - INFO - No more content to scroll through.
+2024-10-23 15:42:25,989 - __main__ - INFO - Finished scraping. Total profiles collected: 294
+2024-10-23 15:42:25,996 - __main__ - INFO - Profile URLs saved to scraped_profile_urls.json
+2024-10-23 15:42:25,996 - __main__ - INFO - Closing the Chrome WebDriver...

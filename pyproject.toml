@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "linkedinscraper"
+version = "0.1.0"
+description = "A LinkedIn scraper with Selenium and Python , made by Ansuman Bhujabala as a task for Flowbee"
+authors = ["Ansumanbhujabal <ansumanbhujabal1@gmail.com>"]
+license = "Reserved to Author"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api
