@@ -70,12 +70,12 @@ This project is a LinkedIn scraper built using Python, Selenium, and Redis. The 
 
 ### Requirements
 
-All Python dependencies are listed in `req.txt` and are installed automatically during the Docker build.
+All Python dependencies are listed in `requirements.txt` and are installed automatically during the Docker build.
 
 - Selenium
 - WebDriver Manager
 - Redis
-- Other dependencies listed in `req.txt`
+- Other dependencies listed in `requirements.txt`
 
 ### Redis
 
