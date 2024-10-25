@@ -33,7 +33,7 @@ RUN CHROMEDRIVER_VERSION=$(curl -sS chromedriver.storage.googleapis.com/LATEST_R
 
 ENV DISPLAY=:99
 WORKDIR /app
-COPY req.txt /app/requirements.txt
+COPY requirements.txt /app/requirements.txt
 RUN pip install --upgrade pip && pip install -r requirements.txt
 COPY . /app
 RUN apt-get update && apt-get install -y redis-server
