@@ -1,0 +1,26 @@
+2024-11-06 00:01:46,096 - __main__ - INFO - Initializing the Chrome WebDriver...
+2024-11-06 00:01:46,097 - WDM - INFO - ====== WebDriver manager ======
+2024-11-06 00:01:46,486 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 00:01:46,671 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 00:01:46,716 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 00:01:47,263 - WDM - INFO - WebDriver version 129.0.6668.100 selected
+2024-11-06 00:01:47,268 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/linux64/chromedriver-linux64.zip
+2024-11-06 00:01:47,269 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/129.0.6668.100/linux64/chromedriver-linux64.zip
+2024-11-06 00:01:47,583 - WDM - INFO - Driver downloading response is 200
+2024-11-06 00:01:48,535 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 00:01:48,751 - WDM - INFO - Driver has been saved in cache [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100]
+2024-11-06 00:01:50,915 - __main__ - INFO - Attempting to log into LinkedIn...
+2024-11-06 00:02:05,207 - __main__ - INFO - Login successful!
+2024-11-06 00:02:05,207 - __main__ - INFO - Pushing 3 profile URLs to the Redis queue...
+2024-11-06 00:02:05,215 - __main__ - INFO - Profile URLs added to the queue successfully.
+2024-11-06 00:02:05,216 - __main__ - INFO - Processing profile: https://www.linkedin.com/in/antrixshgupta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACS2JSYBd4pvOYaBkYgGJq5d1VDH5F53OjA
+2024-11-06 00:02:05,216 - __main__ - INFO - Navigating to profile URL: https://www.linkedin.com/in/antrixshgupta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACS2JSYBd4pvOYaBkYgGJq5d1VDH5F53OjA
+2024-11-06 00:02:11,382 - __main__ - INFO - Scrolling to load more posts...
+2024-11-06 00:02:16,402 - __main__ - INFO - Scrolling to load more posts...
+2024-11-06 00:02:21,416 - __main__ - INFO - Scrolling to load more posts...
+2024-11-06 00:02:26,446 - __main__ - INFO - Found 0 posts on profile: https://www.linkedin.com/in/antrixshgupta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACS2JSYBd4pvOYaBkYgGJq5d1VDH5F53OjA
+2024-11-06 00:02:26,447 - __main__ - INFO - File name is _new.json
+2024-11-06 00:02:26,450 - __main__ - INFO - Data for https://www.linkedin.com/in/antrixshgupta?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACS2JSYBd4pvOYaBkYgGJq5d1VDH5F53OjA saved to _new.json
+2024-11-06 00:02:26,450 - __main__ - INFO - No new profile URLs extracted.
+2024-11-06 00:02:26,450 - __main__ - INFO - No new profile URLs extracted.
+2024-11-06 00:02:26,451 - __main__ - INFO - Closing the Chrome WebDriver...

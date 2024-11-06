@@ -1,0 +1,78 @@
+2024-11-05 22:37:52,940 - __main__ - INFO - Initializing Chrome WebDriver...
+2024-11-05 22:37:52,940 - WDM - INFO - ====== WebDriver manager ======
+2024-11-05 22:37:53,128 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 22:37:53,182 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 22:37:53,225 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-11-05 22:37:55,056 - __main__ - INFO - Logging into LinkedIn...
+2024-11-05 22:38:16,294 - __main__ - INFO - Visiting https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/ to gather profile URLs...
+2024-11-05 22:38:22,240 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAADDopQBLlDF1X0KgsYRPF1jcPoRB4BiVa8/recent-activity/all/
+2024-11-05 22:38:22,246 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAjVaFoBAIXdTe6aVF0NG_E6kHvAnXv6NJw/recent-activity/all/
+2024-11-05 22:38:22,249 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAmmEM4BigKtNnWGugqtUtRtsqKs4Kv5odE/recent-activity/all/
+2024-11-05 22:38:22,277 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAD23aUgBJyIEepIz6twH0F4tWav4kpdw0OE/recent-activity/all/
+2024-11-05 22:38:22,281 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAETneOYBCod5pwh34qFlzX8efiiQV18yTlU/recent-activity/all/
+2024-11-05 22:38:22,285 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAEGekjwBQPraOSKNwpVcbeBYEKmyO-D0Dg0/recent-activity/all/
+2024-11-05 22:38:22,289 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADi-XRQB508PFtFpQO3yBPfeMlmB_rCrVXM/recent-activity/all/
+2024-11-05 22:38:22,293 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADW9i3QB2hxAh86JyllP0IWqKTZOISikgOw/recent-activity/all/
+2024-11-05 22:38:22,355 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAADDopQBLlDF1X0KgsYRPF1jcPoRB4BiVa8/recent-activity/all/
+2024-11-05 22:38:22,359 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAjVaFoBAIXdTe6aVF0NG_E6kHvAnXv6NJw/recent-activity/all/
+2024-11-05 22:38:22,363 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAmmEM4BigKtNnWGugqtUtRtsqKs4Kv5odE/recent-activity/all/
+2024-11-05 22:38:22,400 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAD23aUgBJyIEepIz6twH0F4tWav4kpdw0OE/recent-activity/all/
+2024-11-05 22:38:22,403 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAETneOYBCod5pwh34qFlzX8efiiQV18yTlU/recent-activity/all/
+2024-11-05 22:38:22,407 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAEGekjwBQPraOSKNwpVcbeBYEKmyO-D0Dg0/recent-activity/all/
+2024-11-05 22:38:22,411 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADi-XRQB508PFtFpQO3yBPfeMlmB_rCrVXM/recent-activity/all/
+2024-11-05 22:38:22,414 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADW9i3QB2hxAh86JyllP0IWqKTZOISikgOw/recent-activity/all/
+2024-11-05 22:38:22,443 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/recent-activity/all/
+2024-11-05 22:38:22,443 - __main__ - INFO - Profile URLs collected and added to Redis queue.
+2024-11-05 22:38:22,443 - __main__ - INFO - Closing WebDriver...
+2024-11-05 22:51:15,050 - __main__ - INFO - Initializing Chrome WebDriver...
+2024-11-05 22:51:15,053 - WDM - INFO - ====== WebDriver manager ======
+2024-11-05 22:51:15,123 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 22:51:15,163 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 22:51:15,204 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-11-05 22:51:16,252 - __main__ - INFO - Logging into LinkedIn...
+2024-11-05 22:51:37,679 - __main__ - INFO - Visiting https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/ to gather profile URLs...
+2024-11-05 22:51:43,876 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAADDopQBLlDF1X0KgsYRPF1jcPoRB4BiVa8
+2024-11-05 22:51:43,880 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAjVaFoBAIXdTe6aVF0NG_E6kHvAnXv6NJw
+2024-11-05 22:51:43,883 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAmmEM4BigKtNnWGugqtUtRtsqKs4Kv5odE
+2024-11-05 22:51:43,916 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAD23aUgBJyIEepIz6twH0F4tWav4kpdw0OE
+2024-11-05 22:51:43,920 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAETneOYBCod5pwh34qFlzX8efiiQV18yTlU
+2024-11-05 22:51:43,923 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAEGekjwBQPraOSKNwpVcbeBYEKmyO-D0Dg0
+2024-11-05 22:51:43,927 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADi-XRQB508PFtFpQO3yBPfeMlmB_rCrVXM
+2024-11-05 22:51:43,931 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADW9i3QB2hxAh86JyllP0IWqKTZOISikgOw
+2024-11-05 22:51:44,018 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAADDopQBLlDF1X0KgsYRPF1jcPoRB4BiVa8
+2024-11-05 22:51:44,021 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAjVaFoBAIXdTe6aVF0NG_E6kHvAnXv6NJw
+2024-11-05 22:51:44,025 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAmmEM4BigKtNnWGugqtUtRtsqKs4Kv5odE
+2024-11-05 22:51:44,062 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAD23aUgBJyIEepIz6twH0F4tWav4kpdw0OE
+2024-11-05 22:51:44,066 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAETneOYBCod5pwh34qFlzX8efiiQV18yTlU
+2024-11-05 22:51:44,069 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAEGekjwBQPraOSKNwpVcbeBYEKmyO-D0Dg0
+2024-11-05 22:51:44,073 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADi-XRQB508PFtFpQO3yBPfeMlmB_rCrVXM
+2024-11-05 22:51:44,077 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADW9i3QB2hxAh86JyllP0IWqKTZOISikgOw
+2024-11-05 22:51:44,108 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/
+2024-11-05 22:51:44,108 - __main__ - INFO - Profile URLs collected and added to Redis queue.
+2024-11-05 22:51:44,108 - __main__ - INFO - Closing WebDriver...
+2024-11-05 22:55:14,312 - __main__ - INFO - Initializing Chrome WebDriver...
+2024-11-05 22:55:14,312 - WDM - INFO - ====== WebDriver manager ======
+2024-11-05 22:55:14,381 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 22:55:14,421 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-05 22:55:14,462 - WDM - INFO - Driver [/home/ansuman/.wdm/drivers/chromedriver/linux64/129.0.6668.100/chromedriver-linux64/chromedriver] found in cache
+2024-11-05 22:55:15,510 - __main__ - INFO - Logging into LinkedIn...
+2024-11-05 22:55:34,904 - __main__ - INFO - Visiting https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/ to gather profile URLs...
+2024-11-05 22:55:41,245 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAADDopQBLlDF1X0KgsYRPF1jcPoRB4BiVa8
+2024-11-05 22:55:41,250 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAjVaFoBAIXdTe6aVF0NG_E6kHvAnXv6NJw
+2024-11-05 22:55:41,253 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAmmEM4BigKtNnWGugqtUtRtsqKs4Kv5odE
+2024-11-05 22:55:41,294 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAD23aUgBJyIEepIz6twH0F4tWav4kpdw0OE
+2024-11-05 22:55:41,298 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAETneOYBCod5pwh34qFlzX8efiiQV18yTlU
+2024-11-05 22:55:41,302 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAEGekjwBQPraOSKNwpVcbeBYEKmyO-D0Dg0
+2024-11-05 22:55:41,307 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADi-XRQB508PFtFpQO3yBPfeMlmB_rCrVXM
+2024-11-05 22:55:41,311 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADW9i3QB2hxAh86JyllP0IWqKTZOISikgOw
+2024-11-05 22:55:41,386 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAADDopQBLlDF1X0KgsYRPF1jcPoRB4BiVa8
+2024-11-05 22:55:41,389 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAjVaFoBAIXdTe6aVF0NG_E6kHvAnXv6NJw
+2024-11-05 22:55:41,394 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAAmmEM4BigKtNnWGugqtUtRtsqKs4Kv5odE
+2024-11-05 22:55:41,437 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAD23aUgBJyIEepIz6twH0F4tWav4kpdw0OE
+2024-11-05 22:55:41,442 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAETneOYBCod5pwh34qFlzX8efiiQV18yTlU
+2024-11-05 22:55:41,445 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAAEGekjwBQPraOSKNwpVcbeBYEKmyO-D0Dg0
+2024-11-05 22:55:41,452 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADi-XRQB508PFtFpQO3yBPfeMlmB_rCrVXM
+2024-11-05 22:55:41,458 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ACoAADW9i3QB2hxAh86JyllP0IWqKTZOISikgOw
+2024-11-05 22:55:41,495 - __main__ - INFO - Added to queue: https://www.linkedin.com/in/ansuman-simanta-sekhar-bhujabala/recent-activity/all/
+2024-11-05 22:55:41,495 - __main__ - INFO - Profile URLs collected and added to Redis queue.
+2024-11-05 22:55:41,495 - __main__ - INFO - Closing WebDriver...
