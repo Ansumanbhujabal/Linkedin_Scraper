@@ -12,6 +12,8 @@ This project is a LinkedIn scraper built using Python, Selenium, and Redis. The 
 ![Screenshot from 2024-10-23 17-26-06](https://github.com/user-attachments/assets/56d4fa4e-efd4-4ece-b1aa-b8ed5125784e)
 
 ## Output
+![Screenshot from 2024-11-06 08-27-54](https://github.com/user-attachments/assets/f8642c57-028c-4ca7-a8a9-68e0787717fb)
+
 ![Screenshot from 2024-10-23 17-38-22](https://github.com/user-attachments/assets/432857d6-5c8d-4a3e-bf90-a100ae1ae747)
 
 
